@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1-MY/Scenes/Start.unity
+    guid: bd0fde47df96cca40ab12d1241c13f93
+  - enabled: 1
+    path: Assets/1-MY/Scenes/Forest.unity
+    guid: 40e0cbb745e6eb74e820e849ff892f0e
+  - enabled: 1
+    path: Assets/1-MY/Scenes/Death.unity
+    guid: 0eaaebe8eeb938d449326c7edc1c8d2a
+  - enabled: 1
+    path: Assets/1-MY/Scenes/Win.unity
+    guid: 52169d63ff9ed624c85758b335450fe9
+  m_configObjects: {}

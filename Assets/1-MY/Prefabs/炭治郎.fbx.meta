@@ -1,0 +1,2276 @@
+fileFormatVersion: 2
+guid: 2e82c686f87d7584fbf27d8097548d8f
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: 9019997254706924151
+    second: "\u9AA8\u67B6|attack"
+  - first:
+      74: 8772900552811900446
+    second: "\u9AA8\u67B6|forward"
+  - first:
+      74: -7662094304892612981
+    second: "\u9AA8\u67B6|Idle"
+  - first:
+      74: 3313174352138265356
+    second: "\u9AA8\u67B6|jump"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "\u9AA8\u67B6|attack"
+      takeName: "\u9AA8\u67B6|attack"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u9AA8\u67B6|forward"
+      takeName: "\u9AA8\u67B6|forward"
+      internalID: 0
+      firstFrame: 5
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u9AA8\u67B6|Idle"
+      takeName: "\u9AA8\u67B6|Idle"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u9AA8\u67B6|jump"
+      takeName: "\u9AA8\u67B6|jump"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: "\u70AD\u6CBB\u90CE(Clone)"
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u9AA8\u67B6"
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: 0, y: 0.075111486, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 116.92384, y: 116.92384, z: 116.92384}
+    - name: Root
+      parentName: "\u9AA8\u67B6"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008940697, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000012, z: 1.0000012}
+    - name: Hip
+      parentName: Root
+      position: {x: -1.6094251e-18, y: 0.00014989982, z: 0.006268336}
+      rotation: {x: 0.6979211, y: 4.677437e-10, z: -4.5582196e-10, w: 0.71617466}
+      scale: {x: 1, y: 0.9999995, z: 0.9999996}
+    - name: Spine
+      parentName: Hip
+      position: {x: -1.390259e-12, y: 0.0025239603, z: -2.762082e-11}
+      rotation: {x: -0.004711032, y: 0.00000011918801, z: 9.1191055e-11, w: 0.9999889}
+      scale: {x: 0.9999999, y: 0.99999917, z: 0.9999993}
+    - name: Chest
+      parentName: Spine
+      position: {x: 8.881784e-18, y: 0.0012041348, z: 8.777701e-18}
+      rotation: {x: -0.017831916, y: -0.00000023838066, z: 4.0301096e-14, w: 0.99984103}
+      scale: {x: 1.0000004, y: 1.0000014, z: 1.0000011}
+    - name: Neck
+      parentName: Chest
+      position: {x: -1.7763568e-17, y: 0.0045665875, z: 3.7252892e-11}
+      rotation: {x: 0.11180526, y: 0.00000023692374, z: -3.9742284e-14, w: 0.9937302}
+      scale: {x: 0.99999964, y: 0.9999989, z: 0.99999934}
+    - name: Head
+      parentName: Neck
+      position: {x: 5.3290704e-17, y: 0.0015443756, z: -3.8184222e-10}
+      rotation: {x: -0.024997868, y: -0.008732337, z: 0.00021836173, w: 0.9996494}
+      scale: {x: 1.0000001, y: 1.0000006, z: 0.99999964}
+    - name: Head_end
+      parentName: Head
+      position: {x: -0, y: 0.008442813, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.L
+      parentName: Chest
+      position: {x: -0.0007069116, y: 0.0041292147, z: -0.000015182736}
+      rotation: {x: -0.5378434, y: 0.41987464, z: 0.5729386, w: 0.45406082}
+      scale: {x: 1.0000015, y: 1.0000018, z: 1.0000015}
+    - name: ArmUp.L
+      parentName: Shoulder.L
+      position: {x: -9.3132255e-12, y: 0.0018384755, z: -0.0000000013041067}
+      rotation: {x: -0.09036007, y: 0.006369575, z: 0.0071748635, w: -0.995863}
+      scale: {x: 0.9999983, y: 0.9999958, z: 0.99999976}
+    - name: ArmBottom.L
+      parentName: ArmUp.L
+      position: {x: 2.6077032e-10, y: 0.0034888173, z: 2.9802322e-10}
+      rotation: {x: 0.004871895, y: -0.00027657938, z: -0.025390118, w: -0.99966574}
+      scale: {x: 1.0000002, y: 1.0000029, z: 1.0000015}
+    - name: Hand.L
+      parentName: ArmBottom.L
+      position: {x: 2.9802322e-10, y: 0.0031003754, z: 0.0000000010128133}
+      rotation: {x: -0.01630163, y: 0.0005888962, z: 0.0026632766, w: 0.9998635}
+      scale: {x: 1.0000026, y: 1.0000042, z: 1.0000036}
+    - name: Hand.L_end
+      parentName: Hand.L
+      position: {x: -0, y: 0.0007826022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.R
+      parentName: Chest
+      position: {x: 0.00070691144, y: 0.004129212, z: -0.000015183223}
+      rotation: {x: 0.53784376, y: 0.41987425, z: 0.57293874, w: -0.4540606}
+      scale: {x: 1.0000031, y: 1.0000027, z: 1.0000023}
+    - name: ArmUp.R
+      parentName: Shoulder.R
+      position: {x: -6.519258e-11, y: 0.0018384752, z: -0.0000000013828224}
+      rotation: {x: 0.0905737, y: 0.012169207, z: 0.0095894, w: 0.9957692}
+      scale: {x: 0.99999785, y: 0.9999982, z: 0.9999988}
+    - name: ArmBottom.R
+      parentName: ArmUp.R
+      position: {x: -1.4901161e-10, y: 0.0034968166, z: -2.0256266e-10}
+      rotation: {x: 0.00657074, y: -0.0012365753, z: -0.03609184, w: 0.9993261}
+      scale: {x: 1.0000038, y: 1.0000057, z: 1.0000042}
+    - name: Hand.R
+      parentName: ArmBottom.R
+      position: {x: -3.7252902e-11, y: 0.0031078516, z: 6.810296e-10}
+      rotation: {x: -0.016286978, y: -0.00094411627, z: 0.01911282, w: 0.9996843}
+      scale: {x: 1.0000008, y: 0.9999985, z: 0.999998}
+    - name: Hand.R_end
+      parentName: Hand.R
+      position: {x: -0, y: 0.0007826022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegUp.L
+      parentName: Hip
+      position: {x: -0.00159736, y: 0.0004932698, z: -0.00005243443}
+      rotation: {x: 0.99947166, y: -0.031836763, z: -0.0010275394, w: 0.006471783}
+      scale: {x: 1.0000151, y: 1.0000036, z: 1.0000032}
+    - name: LegBottom.L
+      parentName: LegUp.L
+      position: {x: 7.4505804e-11, y: 0.003703455, z: 0}
+      rotation: {x: 0.04302668, y: -0.00008185009, z: -0.019109944, w: 0.9988911}
+      scale: {x: 0.999999, y: 1.0000093, z: 1.0000088}
+    - name: Foot.L
+      parentName: LegBottom.L
+      position: {x: -1.2340023e-10, y: 0.003033639, z: -3.7252902e-11}
+      rotation: {x: 0.010617787, y: 0.8058075, z: -0.5920404, w: -0.0070527247}
+      scale: {x: 0.999999, y: 1.0000015, z: 0.9999996}
+    - name: Toe.L
+      parentName: Foot.L
+      position: {x: -8.236384e-11, y: 0.0013512516, z: 3.7252902e-11}
+      rotation: {x: 0.17451729, y: 0.00000007590279, z: -0.00000008195639, w: 0.9846541}
+      scale: {x: 1.0000026, y: 1.0000024, z: 1.0000017}
+    - name: Toe.L_end
+      parentName: Toe.L
+      position: {x: -0, y: 0.00065341126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegUp.R
+      parentName: Hip
+      position: {x: 0.00159736, y: 0.0004932697, z: -0.00005243413}
+      rotation: {x: 0.9994716, y: 0.031836737, z: 0.0010275394, w: 0.006471783}
+      scale: {x: 1.000015, y: 1.0000042, z: 1.0000038}
+    - name: LegBottom.R
+      parentName: LegUp.R
+      position: {x: 7.4505804e-11, y: 0.0037034568, z: -3.7252902e-11}
+      rotation: {x: 0.04302668, y: 0.00008184952, z: 0.01910993, w: 0.9988912}
+      scale: {x: 0.9999979, y: 1.00001, z: 1.0000094}
+    - name: Foot.R
+      parentName: LegBottom.R
+      position: {x: 5.3551046e-11, y: 0.0030336382, z: -3.7252902e-11}
+      rotation: {x: -0.01061777, y: 0.8058075, z: -0.5920405, w: 0.0070527317}
+      scale: {x: 1.0000042, y: 1.0000049, z: 0.9999994}
+    - name: Toe.R
+      parentName: Foot.R
+      position: {x: 1.7898856e-11, y: 0.0013512516, z: 0}
+      rotation: {x: 0.17451726, y: -0.00000006426126, z: 0.0000000055879354, w: 0.9846542}
+      scale: {x: 1.0000048, y: 1.0000024, z: 1.0000038}
+    - name: Toe.R_end
+      parentName: Toe.R
+      position: {x: -0, y: 0.00065341126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl.Head.Aim
+      parentName: Root
+      position: {x: -1.3280755e-18, y: -0.012002334, z: 0.013668765}
+      rotation: {x: 0.74259895, y: -0.0058498415, z: -0.0064868135, w: 0.66967946}
+      scale: {x: 1.0000012, y: 0.99999917, z: 0.9999997}
+    - name: Ctrl.Head.Aim_end
+      parentName: Ctrl.Head.Aim
+      position: {x: -0, y: 0.005158561, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rilun
+      parentName: Root
+      position: {x: 0.007346301, y: -0.0008272744, z: 0.009549812}
+      rotation: {x: 0.50000006, y: -0.49999994, z: 0.5, w: -0.50000006}
+      scale: {x: 1.0000005, y: 1.0000021, z: 1.0000011}
+    - name: Rilun_end
+      parentName: Rilun
+      position: {x: -0, y: 0.014096316, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root.Tgt
+      parentName: "\u9AA8\u67B6"
+      position: {x: -0, y: 0, z: -0.0007954325}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: cloth.1.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0017501559, y: 0.014423958, z: 0.0007257886}
+      rotation: {x: -0.4977749, y: 0.064508624, z: 0.8579373, w: -0.10955555}
+      scale: {x: 1.0000018, y: 1.0000026, z: 1.0000045}
+    - name: cloth.1.2.R
+      parentName: cloth.1.1.R
+      position: {x: -1.4901161e-10, y: 0.0018890846, z: 1.5716069e-10}
+      rotation: {x: -0.010371563, y: -0.027244726, z: 0.03439707, w: 0.998983}
+      scale: {x: 1.0000046, y: 1.0000043, z: 1.0000021}
+    - name: cloth.1.3.R
+      parentName: cloth.1.2.R
+      position: {x: -2.2351741e-10, y: 0.0018528036, z: -2.5844202e-10}
+      rotation: {x: 0.015113494, y: 0.040990863, z: -0.02419984, w: 0.9987521}
+      scale: {x: 1.0000025, y: 1.0000031, z: 0.9999995}
+    - name: cloth.1.4.R
+      parentName: cloth.1.3.R
+      position: {x: -0, y: 0.0019366677, z: 3.1664968e-10}
+      rotation: {x: 0.0015152867, y: -0.029282346, z: -0.075120315, w: 0.99674326}
+      scale: {x: 0.9999959, y: 0.9999964, z: 0.9999985}
+    - name: cloth.1.5.R
+      parentName: cloth.1.4.R
+      position: {x: -4.4703483e-10, y: 0.001861919, z: 1.0244548e-10}
+      rotation: {x: -0.01088314, y: 0.0377519, z: -0.011463973, w: 0.99916214}
+      scale: {x: 1.0000026, y: 1.0000011, z: 1.0000002}
+    - name: cloth.1.6.R
+      parentName: cloth.1.5.R
+      position: {x: 7.4505804e-11, y: 0.00177405, z: -2.2351741e-10}
+      rotation: {x: -0.04305649, y: -0.0026814006, z: -0.11767366, w: 0.9921149}
+      scale: {x: 1.0000005, y: 1.0000015, z: 1.0000002}
+    - name: cloth.1.6.R_end
+      parentName: cloth.1.6.R
+      position: {x: -0, y: 0.00097550335, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.2.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0025138336, y: 0.012602326, z: 0.0005122222}
+      rotation: {x: -0.3167018, y: 0.004717261, z: 0.9392967, w: -0.13190658}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1}
+    - name: cloth.2.2.R
+      parentName: cloth.2.1.R
+      position: {x: 2.2351741e-10, y: 0.0017195543, z: 4.4703483e-10}
+      rotation: {x: 0.0069606677, y: -0.035060328, z: 0.061338548, w: 0.99747676}
+      scale: {x: 1.0000014, y: 1.0000031, z: 0.9999998}
+    - name: cloth.2.3.R
+      parentName: cloth.2.2.R
+      position: {x: 3.7252902e-11, y: 0.0019193753, z: 2.0023434e-10}
+      rotation: {x: 0.018538339, y: -0.019331852, z: -0.035059012, w: 0.9990263}
+      scale: {x: 1.0000027, y: 1.000002, z: 1.0000014}
+    - name: cloth.2.4.R
+      parentName: cloth.2.3.R
+      position: {x: 2.9802322e-10, y: 0.0018808568, z: -5.5879353e-11}
+      rotation: {x: 0.00041976565, y: -0.018260317, z: -0.04781357, w: 0.99868923}
+      scale: {x: 1.0000086, y: 1.0000079, z: 1}
+    - name: cloth.2.5.R
+      parentName: cloth.2.4.R
+      position: {x: 1.4901161e-10, y: 0.00180328, z: -3.7252902e-11}
+      rotation: {x: -0.022500461, y: -0.003329847, z: -0.17287448, w: 0.9846812}
+      scale: {x: 1.0000013, y: 1.0000032, z: 0.9999998}
+    - name: cloth.2.5.R_end
+      parentName: cloth.2.5.R
+      position: {x: -0, y: 0.0010336911, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.3.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0026869597, y: 0.01253709, z: -0.00025928504}
+      rotation: {x: -0.074769236, y: 0.018009963, z: 0.9859536, w: -0.14825886}
+      scale: {x: 1.0000056, y: 1.0000012, z: 1.0000005}
+    - name: cloth.3.2.R
+      parentName: cloth.3.1.R
+      position: {x: -2.0954757e-11, y: 0.0017163634, z: 1.8626451e-11}
+      rotation: {x: -0.012136325, y: -0.00002261647, z: 0.024126422, w: 0.9996353}
+      scale: {x: 1.0000037, y: 1.0000072, z: 0.99999994}
+    - name: cloth.3.3.R
+      parentName: cloth.3.2.R
+      position: {x: 4.703179e-10, y: 0.0018522667, z: 6.519258e-11}
+      rotation: {x: -0.01060726, y: 0.00017409185, z: 0.039684154, w: 0.99915594}
+      scale: {x: 0.99999946, y: 0.9999985, z: 1.0000008}
+    - name: cloth.3.4.R
+      parentName: cloth.3.3.R
+      position: {x: -1.2449163e-10, y: 0.0017792362, z: -3.5506674e-11}
+      rotation: {x: 0.01052293, y: 0.000000019237632, z: -0.05438283, w: 0.99846476}
+      scale: {x: 1.0000068, y: 1.0000066, z: 0.9999999}
+    - name: cloth.3.5.R
+      parentName: cloth.3.4.R
+      position: {x: 1.5599652e-10, y: 0.0017612303, z: -2.7939677e-11}
+      rotation: {x: -0.06960154, y: -0.0037413724, z: -0.16479498, w: 0.983862}
+      scale: {x: 1.000002, y: 1.0000019, z: 0.99999917}
+    - name: cloth.3.5.R_end
+      parentName: cloth.3.5.R
+      position: {x: -0, y: 0.0011344883, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.4.1.R
+      parentName: Root.Tgt
+      position: {x: 0.002638852, y: 0.012714311, z: -0.0009950654}
+      rotation: {x: 0.20482291, y: -0.04665327, z: 0.97003686, w: -0.12206373}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: cloth.4.2.R
+      parentName: cloth.4.1.R
+      position: {x: 3.7252902e-11, y: 0.0017241501, z: -9.313225e-11}
+      rotation: {x: 0.012237149, y: 0.00015803102, z: 0.021648996, w: 0.9996907}
+      scale: {x: 0.999998, y: 0.9999969, z: 0.9999996}
+    - name: cloth.4.3.R
+      parentName: cloth.4.2.R
+      position: {x: 3.352761e-10, y: 0.0017757389, z: 7.4505804e-11}
+      rotation: {x: 0.007865832, y: -0.00086635555, z: 0.044953004, w: 0.99895775}
+      scale: {x: 1.0000002, y: 1.0000042, z: 1.0000026}
+    - name: cloth.4.4.R
+      parentName: cloth.4.3.R
+      position: {x: 4.4703483e-10, y: 0.0018026164, z: -3.1432135e-11}
+      rotation: {x: -0.026573522, y: 0.0014594926, z: -0.06708456, w: 0.9973923}
+      scale: {x: 1.0000005, y: 1.0000014, z: 0.99999857}
+    - name: cloth.4.5.R
+      parentName: cloth.4.4.R
+      position: {x: 8.9406965e-10, y: 0.0019042915, z: -1.4901161e-10}
+      rotation: {x: 0.1009504, y: -0.043984126, z: -0.1416542, w: 0.98377264}
+      scale: {x: 1.0000018, y: 1.0000032, z: 1.000001}
+    - name: cloth.4.5.R_end
+      parentName: cloth.4.5.R
+      position: {x: -0, y: 0.00089120347, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.5.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0015624879, y: 0.01578356, z: -0.001060129}
+      rotation: {x: 0.47691417, y: -0.16175938, z: 0.8213507, w: -0.26789892}
+      scale: {x: 1.0000004, y: 1.0000011, z: 1.0000002}
+    - name: cloth.5.2.R
+      parentName: cloth.5.1.R
+      position: {x: 7.45058e-10, y: 0.0010037939, z: -1.0244548e-10}
+      rotation: {x: 0.007438299, y: -0.001313394, z: -0.25427994, w: 0.96710116}
+      scale: {x: 1.0000063, y: 1.0000061, z: 1.0000027}
+    - name: cloth.5.3.R
+      parentName: cloth.5.2.R
+      position: {x: -1.4901161e-10, y: 0.0023677428, z: 4.377216e-10}
+      rotation: {x: 0.06617347, y: -0.0022614151, z: 0.042483546, w: 0.9969008}
+      scale: {x: 1.0000072, y: 1.0000083, z: 1.0000017}
+    - name: cloth.5.4.R
+      parentName: cloth.5.3.R
+      position: {x: -2.2351741e-10, y: 0.0018583793, z: 0}
+      rotation: {x: 0.0002937615, y: 0.00018723216, z: 0.026284903, w: 0.9996545}
+      scale: {x: 1.0000026, y: 1.0000026, z: 1.0000011}
+    - name: cloth.5.5.R
+      parentName: cloth.5.4.R
+      position: {x: -2.9802322e-10, y: 0.0017600211, z: 0}
+      rotation: {x: -0.00085508754, y: -0.000046600682, z: -0.009602003, w: 0.9999536}
+      scale: {x: 1.0000011, y: 0.9999989, z: 0.9999983}
+    - name: cloth.5.6.R
+      parentName: cloth.5.5.R
+      position: {x: -0, y: 0.0018402389, z: -2.9802322e-10}
+      rotation: {x: -0.020197487, y: 0.031215724, z: -0.01210873, w: 0.9992352}
+      scale: {x: 0.9999993, y: 0.99999934, z: 1.0000012}
+    - name: cloth.5.7.R
+      parentName: cloth.5.6.R
+      position: {x: -0, y: 0.0016440781, z: 0}
+      rotation: {x: -0.02100426, y: -0.00000012107192, z: -0.1543892, w: 0.9877869}
+      scale: {x: 0.99999785, y: 0.99999934, z: 0.9999987}
+    - name: cloth.5.7.R_end
+      parentName: cloth.5.7.R
+      position: {x: -0, y: 0.00097194075, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.6.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0008145652, y: 0.015680615, z: -0.0016221554}
+      rotation: {x: 0.5553816, y: -0.08593256, z: 0.81176907, w: -0.1587385}
+      scale: {x: 1.0000021, y: 1.0000025, z: 1.0000032}
+    - name: cloth.6.2.R
+      parentName: cloth.6.1.R
+      position: {x: 3.352761e-10, y: 0.0013762357, z: -1.862645e-10}
+      rotation: {x: -0.0089902505, y: 0.002559233, z: -0.08905733, w: 0.9959827}
+      scale: {x: 1.0000036, y: 1.0000077, z: 1.0000013}
+    - name: cloth.6.3.R
+      parentName: cloth.6.2.R
+      position: {x: 3.7252902e-11, y: 0.0019783003, z: 1.862645e-10}
+      rotation: {x: -0.006731331, y: -0.044874508, z: 0.008206986, w: 0.99893624}
+      scale: {x: 1.0000038, y: 1.0000052, z: 1.0000017}
+    - name: cloth.6.4.R
+      parentName: cloth.6.3.R
+      position: {x: -7.4505804e-11, y: 0.0016573397, z: -1.8626451e-11}
+      rotation: {x: -0.0024703487, y: 0.000023197379, z: -0.00731934, w: 0.9999702}
+      scale: {x: 1.0000005, y: 1.0000007, z: 0.99999905}
+    - name: cloth.6.5.R
+      parentName: cloth.6.4.R
+      position: {x: 1.862645e-10, y: 0.0016080632, z: -1.862645e-10}
+      rotation: {x: 0.0046686586, y: 0.00012271157, z: 0.010260571, w: 0.9999365}
+      scale: {x: 1.0000014, y: 1.0000024, z: 1.000001}
+    - name: cloth.6.6.R
+      parentName: cloth.6.5.R
+      position: {x: -1.11758706e-10, y: 0.001622064, z: -1.6763806e-10}
+      rotation: {x: -0.0053412938, y: -0.0002401617, z: -0.011136308, w: 0.99992377}
+      scale: {x: 1.000002, y: 1.0000025, z: 0.99999946}
+    - name: cloth.6.7.R
+      parentName: cloth.6.6.R
+      position: {x: -1.862645e-10, y: 0.0020037012, z: 2.0489097e-10}
+      rotation: {x: 0.0362229, y: 0.00000021413138, z: -0.09735207, w: 0.9945907}
+      scale: {x: 1.0000005, y: 1.0000014, z: 1.0000014}
+    - name: cloth.6.7.R_end
+      parentName: cloth.6.7.R
+      position: {x: -0, y: 0.0009965239, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.1.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0017501559, y: 0.014423958, z: 0.0007257886}
+      rotation: {x: 0.8067816, y: -0.11518728, z: -0.57700926, w: 0.05381203}
+      scale: {x: 1.0000012, y: 1.0000021, z: 1.0000058}
+    - name: cloth.1.2.L
+      parentName: cloth.1.1.L
+      position: {x: -1.11758706e-10, y: 0.0018890846, z: 1.4901161e-10}
+      rotation: {x: 0.016549913, y: 0.031603593, z: 0.03188778, w: 0.9988546}
+      scale: {x: 1.0000027, y: 1.000004, z: 1.0000043}
+    - name: cloth.1.3.L
+      parentName: cloth.1.2.L
+      position: {x: 7.4505804e-11, y: 0.0018528048, z: 3.7252902e-11}
+      rotation: {x: -0.018467205, y: -0.005237658, z: -0.021748304, w: 0.9995792}
+      scale: {x: 1.0000019, y: 1.0000015, z: 1.0000011}
+    - name: cloth.1.4.L
+      parentName: cloth.1.3.L
+      position: {x: 2.2351741e-10, y: 0.0019366678, z: -9.313225e-11}
+      rotation: {x: -0.0075338692, y: 0.05883899, z: -0.07475652, w: 0.99543595}
+      scale: {x: 1.0000012, y: 1.0000068, z: 1.0000054}
+    - name: cloth.1.5.L
+      parentName: cloth.1.4.L
+      position: {x: -1.4901161e-10, y: 0.0018619187, z: 2.8172506e-10}
+      rotation: {x: 0.010569291, y: -0.014201324, z: -0.011754131, w: 0.9997743}
+      scale: {x: 1.0000012, y: 0.9999989, z: 0.999999}
+    - name: cloth.1.6.L
+      parentName: cloth.1.5.L
+      position: {x: -0, y: 0.0017740503, z: -1.3038516e-10}
+      rotation: {x: 0.008277684, y: -0.0020900245, z: -0.09484564, w: 0.99545544}
+      scale: {x: 1.0000002, y: 1.0000039, z: 1.0000021}
+    - name: cloth.1.6.L_end
+      parentName: cloth.1.6.L
+      position: {x: -0, y: 0.00076555944, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.2.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0025138336, y: 0.012602326, z: 0.0005122222}
+      rotation: {x: 0.96630037, y: -0.13077024, z: -0.22100237, w: 0.01790893}
+      scale: {x: 0.99999934, y: 1.0000017, z: 1.0000017}
+    - name: cloth.2.2.L
+      parentName: cloth.2.1.L
+      position: {x: -2.2351741e-10, y: 0.0017195527, z: -2.2351741e-10}
+      rotation: {x: -0.017609429, y: 0.010679499, z: 0.059167422, w: 0.9980356}
+      scale: {x: 1.0000014, y: 1.0000036, z: 1.0000023}
+    - name: cloth.2.3.L
+      parentName: cloth.2.2.L
+      position: {x: 2.9802322e-10, y: 0.0019193757, z: 7.4505804e-11}
+      rotation: {x: -0.013868568, y: -0.003338351, z: -0.037154783, w: 0.9992077}
+      scale: {x: 1.0000012, y: 1.0000018, z: 1.0000026}
+    - name: cloth.2.4.L
+      parentName: cloth.2.3.L
+      position: {x: 6.705522e-10, y: 0.0018808582, z: -7.4505804e-11}
+      rotation: {x: 0.004451047, y: 0.010405387, z: -0.045376364, w: 0.9989059}
+      scale: {x: 0.9999993, y: 1.0000082, z: 1.0000066}
+    - name: cloth.2.5.L
+      parentName: cloth.2.4.L
+      position: {x: -1.11758706e-10, y: 0.0016922241, z: -3.958121e-11}
+      rotation: {x: 0.031265207, y: -0.0013021501, z: -0.15215743, w: 0.98786086}
+      scale: {x: 0.99999774, y: 1.000002, z: 1.0000005}
+    - name: cloth.2.5.L_end
+      parentName: cloth.2.5.L
+      position: {x: -0, y: 0.0009934915, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.3.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0026869597, y: 0.01253709, z: -0.00025928504}
+      rotation: {x: 0.074769236, y: 0.018009963, z: 0.9859536, w: 0.14825886}
+      scale: {x: 1.0000056, y: 1.0000012, z: 1.0000005}
+    - name: cloth.3.2.L
+      parentName: cloth.3.1.L
+      position: {x: 2.0954757e-11, y: 0.0017163634, z: 1.8626451e-11}
+      rotation: {x: -0.02496846, y: -0.99681973, z: 0.010293169, w: 0.074973755}
+      scale: {x: 0.99999934, y: 1.0000015, z: 1.0000019}
+    - name: cloth.3.3.L
+      parentName: cloth.3.2.L
+      position: {x: -5.84987e-11, y: 0.001852266, z: -3.608875e-11}
+      rotation: {x: 0.003590781, y: 0.023365567, z: 0.040920086, w: 0.9988828}
+      scale: {x: 1.0000012, y: 1.0000056, z: 1.0000046}
+    - name: cloth.3.4.L
+      parentName: cloth.3.3.L
+      position: {x: -5.3754773e-10, y: 0.001779237, z: 2.3283063e-11}
+      rotation: {x: 0.002283342, y: -0.009716795, z: -0.0681585, w: 0.99762464}
+      scale: {x: 0.99999917, y: 1.0000021, z: 1.0000013}
+    - name: cloth.3.5.L
+      parentName: cloth.3.4.L
+      position: {x: -1.6298145e-11, y: 0.0019139716, z: 9.3132255e-12}
+      rotation: {x: 0.006612594, y: 0.0032206308, z: -0.18093705, w: 0.9834672}
+      scale: {x: 0.99999803, y: 1.0000018, z: 0.9999997}
+    - name: cloth.3.5.L_end
+      parentName: cloth.3.5.L
+      position: {x: -0, y: 0.0011353145, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.4.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0025887804, y: 0.0126333665, z: -0.00090472354}
+      rotation: {x: 0.9616699, y: -0.123727925, z: 0.24107039, w: -0.042041186}
+      scale: {x: 0.9999995, y: 1.0000019, z: 1.0000023}
+    - name: cloth.4.2.L
+      parentName: cloth.4.1.L
+      position: {x: -7.45058e-10, y: 0.0017241484, z: 1.3038516e-10}
+      rotation: {x: -0.014468412, y: 0.031243043, z: 0.02022604, w: 0.99920243}
+      scale: {x: 1.0000011, y: 1.0000038, z: 1.0000021}
+    - name: cloth.4.3.L
+      parentName: cloth.4.2.L
+      position: {x: 3.72529e-10, y: 0.0017757379, z: 1.11758706e-10}
+      rotation: {x: -0.012330022, y: -0.036610734, z: 0.043938853, w: 0.998287}
+      scale: {x: 0.99999934, y: 1.0000042, z: 1.0000036}
+    - name: cloth.4.4.L
+      parentName: cloth.4.3.L
+      position: {x: -0, y: 0.001802615, z: 1.3969838e-10}
+      rotation: {x: 0.024469327, y: -0.026624251, z: -0.057055704, w: 0.99771595}
+      scale: {x: 1.0000018, y: 1.0000062, z: 1.0000086}
+    - name: cloth.4.5.L
+      parentName: cloth.4.4.L
+      position: {x: 2.2351741e-10, y: 0.0019130568, z: 0}
+      rotation: {x: -0.046378817, y: -0.00000014342366, z: -0.18117008, w: 0.98235756}
+      scale: {x: 0.9999963, y: 0.9999993, z: 0.9999973}
+    - name: cloth.4.5.L_end
+      parentName: cloth.4.5.L
+      position: {x: -0, y: 0.0011139258, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.5.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0015624879, y: 0.01578356, z: -0.001060129}
+      rotation: {x: -0.47691417, y: -0.16175938, z: 0.8213507, w: 0.26789892}
+      scale: {x: 1.0000004, y: 1.0000011, z: 1.0000002}
+    - name: cloth.5.2.L
+      parentName: cloth.5.1.L
+      position: {x: -7.45058e-10, y: 0.0010037939, z: -1.0244548e-10}
+      rotation: {x: 0.25422183, y: -0.9670868, z: -0.0092133945, w: -0.0054383497}
+      scale: {x: 1.0000033, y: 1.0000063, z: 1.0000029}
+    - name: cloth.5.3.L
+      parentName: cloth.5.2.L
+      position: {x: 2.9802322e-10, y: 0.0023677428, z: -4.400499e-10}
+      rotation: {x: -0.06665117, y: 0.027486823, z: 0.041730214, w: 0.9965243}
+      scale: {x: 1.0000005, y: 0.99999803, z: 0.9999985}
+    - name: cloth.5.4.L
+      parentName: cloth.5.3.L
+      position: {x: -1.4901161e-10, y: 0.0018583807, z: 2.9802322e-10}
+      rotation: {x: 0.00041741133, y: -0.0638262, z: 0.026283182, w: 0.9976148}
+      scale: {x: 0.9999998, y: 1.0000066, z: 1.0000058}
+    - name: cloth.5.5.L
+      parentName: cloth.5.4.L
+      position: {x: -1.4901161e-10, y: 0.0017600213, z: -4.4703483e-10}
+      rotation: {x: -0.0003298825, y: -0.03223474, z: -0.009634353, w: 0.9994339}
+      scale: {x: 1.0000026, y: 1.0000063, z: 1.0000048}
+    - name: cloth.5.6.L
+      parentName: cloth.5.5.L
+      position: {x: -0, y: 0.0018402394, z: -5.9604643e-10}
+      rotation: {x: 0.019778188, y: 0.051422298, z: -0.008570995, w: 0.9984443}
+      scale: {x: 0.99999887, y: 0.9999967, z: 0.9999973}
+    - name: cloth.5.7.L
+      parentName: cloth.5.6.L
+      position: {x: 8.9406965e-10, y: 0.0016694353, z: -3.7252902e-11}
+      rotation: {x: 0.015047884, y: -0.00000005215407, z: -0.16622825, w: 0.9859725}
+      scale: {x: 0.999999, y: 1.0000004, z: 0.9999994}
+    - name: cloth.5.7.L_end
+      parentName: cloth.5.7.L
+      position: {x: -0, y: 0.0012380966, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.6.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0008145652, y: 0.015680615, z: -0.0016221554}
+      rotation: {x: 0.807917, y: -0.15932849, z: 0.5609703, w: -0.084834546}
+      scale: {x: 1.0000018, y: 1.0000033, z: 1.0000017}
+    - name: cloth.6.2.L
+      parentName: cloth.6.1.L
+      position: {x: -7.4505804e-11, y: 0.0013762362, z: 3.352761e-10}
+      rotation: {x: 0.011621106, y: 0.0131654125, z: -0.088752426, w: 0.9958989}
+      scale: {x: 0.9999988, y: 0.9999972, z: 1.0000005}
+    - name: cloth.6.3.L
+      parentName: cloth.6.2.L
+      position: {x: 3.72529e-10, y: 0.0019783, z: -1.8626451e-11}
+      rotation: {x: 0.006484747, y: 0.029178258, z: 0.008403127, w: 0.9995179}
+      scale: {x: 1.0000025, y: 1.0000056, z: 1.0000023}
+    - name: cloth.6.4.L
+      parentName: cloth.6.3.L
+      position: {x: -3.72529e-10, y: 0.0016573394, z: 7.4505804e-11}
+      rotation: {x: 0.0022906084, y: -0.03840972, z: -0.0073773176, w: 0.9992323}
+      scale: {x: 1.0000013, y: 1.0000069, z: 1.0000044}
+    - name: cloth.6.5.L
+      parentName: cloth.6.4.L
+      position: {x: 2.2351741e-10, y: 0.0016080631, z: 9.3132255e-12}
+      rotation: {x: -0.004307566, y: 0.027797107, z: 0.010417106, w: 0.99955004}
+      scale: {x: 1.0000018, y: 1.0000045, z: 1.0000012}
+    - name: cloth.6.6.L
+      parentName: cloth.6.5.L
+      position: {x: -2.6077032e-10, y: 0.0016220632, z: 2.7939676e-10}
+      rotation: {x: 0.0048801107, y: -0.033784766, z: -0.011345835, w: 0.9993529}
+      scale: {x: 0.9999993, y: 0.99999255, z: 0.9999974}
+    - name: cloth.6.7.L
+      parentName: cloth.6.6.L
+      position: {x: -7.4505804e-11, y: 0.0020037014, z: 3.010791e-10}
+      rotation: {x: 0.017054467, y: 0.00000020489094, z: -0.13326392, w: 0.9909339}
+      scale: {x: 1.0000006, y: 1.0000087, z: 1.000003}
+    - name: cloth.6.7.L_end
+      parentName: cloth.6.7.L
+      position: {x: -0, y: 0.001177364, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.0.1.L
+      parentName: Root.Tgt
+      position: {x: 0.000002139979, y: 0.01574213, z: -0.0017286967}
+      rotation: {x: 0.6986878, y: -0.109999895, z: 0.698372, w: -0.10959917}
+      scale: {x: 1, y: 1.0000025, z: 1.0000014}
+    - name: cloth.0.2.L
+      parentName: cloth.0.1.L
+      position: {x: 7.492893e-10, y: 0.0013715714, z: -5.0931704e-13}
+      rotation: {x: 0.00007785484, y: -0.000003853813, z: -0.052075755, w: 0.99864316}
+      scale: {x: 1.0000025, y: 1.0000037, z: 1.0000025}
+    - name: cloth.0.3.L
+      parentName: cloth.0.2.L
+      position: {x: 1.727091e-10, y: 0.0019939197, z: -7.275957e-13}
+      rotation: {x: -0.000029520137, y: 0.0000004909662, z: -0.0026183575, w: 0.9999966}
+      scale: {x: 1.0000045, y: 1.0000049, z: 1.0000014}
+    - name: cloth.0.4.L
+      parentName: cloth.0.3.L
+      position: {x: -3.359822e-10, y: 0.0017622388, z: -4.0017767e-13}
+      rotation: {x: -0.000036528058, y: -0.0000015826238, z: -0.0023419042, w: 0.9999973}
+      scale: {x: 1.0000024, y: 1.0000046, z: 1.000003}
+    - name: cloth.0.5.L
+      parentName: cloth.0.4.L
+      position: {x: -1.0777601e-10, y: 0.0015389877, z: 0}
+      rotation: {x: 0.0000031858356, y: 0.00000011765175, z: -0.020757975, w: 0.9997845}
+      scale: {x: 1.0000017, y: 1.0000044, z: 1.0000013}
+    - name: cloth.0.6.L
+      parentName: cloth.0.5.L
+      position: {x: -1.4924452e-10, y: 0.0016094185, z: 0}
+      rotation: {x: 0.00005773644, y: 0.000003146458, z: 0.008647545, w: 0.9999626}
+      scale: {x: 1.0000007, y: 1.0000031, z: 1.0000012}
+    - name: cloth.0.7.L
+      parentName: cloth.0.6.L
+      position: {x: 2.554212e-10, y: 0.0020145476, z: -5.820766e-13}
+      rotation: {x: -0.026339231, y: -0.000000109477, z: -0.11352479, w: 0.99318606}
+      scale: {x: 0.999998, y: 0.99999946, z: 0.9999996}
+    - name: cloth.0.7.L_end
+      parentName: cloth.0.7.L
+      position: {x: -0, y: 0.00093212194, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.7.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0016750641, y: 0.015703646, z: -0.00046723633}
+      rotation: {x: -0.014568388, y: 0.042181134, z: -0.8159488, w: 0.5763993}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.99999994}
+    - name: cloth.7.2.R
+      parentName: cloth.7.1.R
+      position: {x: 0.000000002363231, y: 0.0011077579, z: 0}
+      rotation: {x: 0.044261474, y: 0.000059878454, z: -0.06801624, w: 0.99670196}
+      scale: {x: 1.0000014, y: 0.99999905, z: 0.99999994}
+    - name: cloth.7.3.R
+      parentName: cloth.7.2.R
+      position: {x: 7.636845e-10, y: 0.0014122205, z: -7.916242e-11}
+      rotation: {x: -0.00064917275, y: -0.00000024251855, z: 0.03392573, w: -0.99942416}
+      scale: {x: 1.0000012, y: 1.0000017, z: 0.99999976}
+    - name: cloth.7.4.R
+      parentName: cloth.7.3.R
+      position: {x: -0.0000000020768494, y: 0.0014315983, z: -5.122274e-11}
+      rotation: {x: 0.0012622246, y: -0.00000013205117, z: -0.065971725, w: -0.9978207}
+      scale: {x: 1.0000017, y: 1.0000023, z: 1}
+    - name: cloth.7.5.R
+      parentName: cloth.7.4.R
+      position: {x: 4.819594e-10, y: 0.0015070651, z: -2.3283063e-11}
+      rotation: {x: 0.00050730957, y: -0.00000010975476, z: -0.026519466, w: 0.99964815}
+      scale: {x: 1.0000036, y: 1.0000046, z: 1.0000002}
+    - name: cloth.7.6.R
+      parentName: cloth.7.5.R
+      position: {x: 0.0000000018265564, y: 0.0016205919, z: -4.6566126e-11}
+      rotation: {x: -0.0021058419, y: -0.000000007534594, z: 0.1100609, w: -0.99392265}
+      scale: {x: 1.0000056, y: 1.0000032, z: 1.0000002}
+    - name: cloth.7.6.R_end
+      parentName: cloth.7.6.R
+      position: {x: -0, y: 0.00097249914, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.8.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0025992587, y: 0.014895163, z: 0.00022579783}
+      rotation: {x: -0.38719466, y: -0.22029965, z: 0.786673, w: -0.42742708}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: cloth.8.2.R
+      parentName: cloth.8.1.R
+      position: {x: -3.9115547e-10, y: 0.0011618925, z: 0}
+      rotation: {x: 0.04928002, y: -0.0024155977, z: 0.052430887, w: 0.997405}
+      scale: {x: 1.0000002, y: 1.0000031, z: 1.0000001}
+    - name: cloth.8.3.R
+      parentName: cloth.8.2.R
+      position: {x: -2.0489097e-10, y: 0.0016816191, z: 1.3969838e-10}
+      rotation: {x: -0.007086549, y: -0.03525356, z: 0.010235801, w: 0.9993009}
+      scale: {x: 0.9232033, y: 0.92320126, z: 0.92320067}
+    - name: cloth.8.4.R
+      parentName: cloth.8.3.R
+      position: {x: -1.11758706e-10, y: 0.0014635321, z: 0.0000000012665987}
+      rotation: {x: 0.047488827, y: -0.02170623, z: -0.035505213, w: -0.99800456}
+      scale: {x: 0.890731, y: 0.8907337, z: 0.89073145}
+    - name: cloth.8.5.R
+      parentName: cloth.8.4.R
+      position: {x: -5.9604643e-10, y: 0.0014641705, z: 5.2154064e-10}
+      rotation: {x: -0.09563921, y: 0.0054196436, z: 0.12586038, w: -0.9874123}
+      scale: {x: 0.90373296, y: 0.9037324, z: 0.903731}
+    - name: cloth.8.5.R_end
+      parentName: cloth.8.5.R
+      position: {x: -0, y: 0.0011349998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.9.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0031611186, y: 0.013482924, z: 0.00031925592}
+      rotation: {x: 0.706238, y: 0.20988753, z: -0.59579384, w: 0.31969494}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000006}
+    - name: cloth.9.2.R
+      parentName: cloth.9.1.R
+      position: {x: 3.7252902e-11, y: 0.0013688053, z: 6.2631444e-10}
+      rotation: {x: -0.057167634, y: -0.039498635, z: 0.020994142, w: 0.997362}
+      scale: {x: 0.96609634, y: 0.9660972, z: 0.9660941}
+    - name: cloth.9.3.R
+      parentName: cloth.9.2.R
+      position: {x: -0, y: 0.0018196916, z: 5.296897e-10}
+      rotation: {x: -0.032460846, y: 0.02545441, z: -0.055141438, w: 0.99762607}
+      scale: {x: 0.85382015, y: 0.85382104, z: 0.8538225}
+    - name: cloth.9.4.R
+      parentName: cloth.9.3.R
+      position: {x: 3.5390257e-10, y: 0.0013162366, z: -3.1664968e-10}
+      rotation: {x: -0.01289715, y: 0.029388413, z: 0.15930218, w: -0.98670805}
+      scale: {x: 0.8761148, y: 0.8761158, z: 0.87611365}
+    - name: cloth.9.4.R_end
+      parentName: cloth.9.4.R
+      position: {x: -0, y: 0.0008919326, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.10.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0031309128, y: 0.01263525, z: -0.00027649288}
+      rotation: {x: 0.9651368, y: 0.24609636, z: 0.0875379, w: 0.016872229}
+      scale: {x: 1.0000001, y: 1.0000037, z: 1.0000024}
+    - name: cloth.10.2.R
+      parentName: cloth.10.1.R
+      position: {x: -7.9860907e-10, y: 0.0010530122, z: -2.1420418e-10}
+      rotation: {x: 0.039750576, y: -0.026005866, z: -0.011423007, w: 0.9988059}
+      scale: {x: 1.0000005, y: 0.999998, z: 0.9999976}
+    - name: cloth.10.3.R
+      parentName: cloth.10.2.R
+      position: {x: 1.0477379e-10, y: 0.0014851275, z: 1.8626451e-11}
+      rotation: {x: 0.0037359672, y: -0.021794427, z: -0.042986114, w: 0.998831}
+      scale: {x: 0.99999976, y: 1.0000013, z: 1.000002}
+    - name: cloth.10.4.R
+      parentName: cloth.10.3.R
+      position: {x: 3.4924594e-11, y: 0.0014763003, z: -1.8626451e-11}
+      rotation: {x: 0.007462644, y: -0.017234901, z: -0.15724963, w: 0.9873803}
+      scale: {x: 1.0000023, y: 1.0000088, z: 1.000011}
+    - name: cloth.10.4.R_end
+      parentName: cloth.10.4.R
+      position: {x: -0, y: 0.00088505534, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.11.1.R
+      parentName: Root.Tgt
+      position: {x: 0.002371664, y: 0.014871044, z: -0.0014574088}
+      rotation: {x: 0.5379265, y: 0.2879318, z: 0.692394, w: -0.38512453}
+      scale: {x: 1.0000012, y: 1.0000031, z: 1.0000011}
+    - name: cloth.11.2.R
+      parentName: cloth.11.1.R
+      position: {x: 5.125184e-10, y: 0.001161893, z: -0.0000000010989606}
+      rotation: {x: -0.018832939, y: 0.0060973843, z: 0.058199488, w: 0.9981087}
+      scale: {x: 1.0000037, y: 1.0000051, z: 1.0000035}
+    - name: cloth.11.3.R
+      parentName: cloth.11.2.R
+      position: {x: -3.72529e-10, y: 0.0017076372, z: -9.313226e-10}
+      rotation: {x: -0.01909987, y: 0.021962978, z: 0.027626263, w: 0.9991945}
+      scale: {x: 1.0000027, y: 1.0000033, z: 1.0000024}
+    - name: cloth.11.4.R
+      parentName: cloth.11.3.R
+      position: {x: -1.4901161e-10, y: 0.0014003458, z: -0.0000000013411044}
+      rotation: {x: 0.024897672, y: 0.030767817, z: -0.017336087, w: 0.999066}
+      scale: {x: 0.9999973, y: 0.99999654, z: 0.9999994}
+    - name: cloth.11.5.R
+      parentName: cloth.11.4.R
+      position: {x: -1.4901161e-10, y: 0.0014611526, z: 0.0000000010430813}
+      rotation: {x: 0.0013304688, y: 0.024036128, z: -0.11512843, w: 0.9930589}
+      scale: {x: 1.0000029, y: 1.000004, z: 1.0000007}
+    - name: cloth.11.5.R_end
+      parentName: cloth.11.5.R
+      position: {x: -0, y: 0.0010374847, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.12.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0028457136, y: 0.013492713, z: -0.0013808146}
+      rotation: {x: 0.7615728, y: 0.2533736, z: 0.52440715, w: -0.2842638}
+      scale: {x: 1.0000032, y: 1.000005, z: 1.000003}
+    - name: cloth.12.2.R
+      parentName: cloth.12.1.R
+      position: {x: -2.9802322e-10, y: 0.0013792106, z: 4.0978193e-10}
+      rotation: {x: 0.0455399, y: 0.035798796, z: -0.036337942, w: 0.9976593}
+      scale: {x: 1.0000005, y: 1.0000037, z: 1.000002}
+    - name: cloth.12.3R
+      parentName: cloth.12.2.R
+      position: {x: -2.2351741e-10, y: 0.001603072, z: 6.3329936e-10}
+      rotation: {x: -0.01288769, y: 0.0001282394, z: -0.017528817, w: 0.9997633}
+      scale: {x: 1.000002, y: 1.0000021, z: 1.0000015}
+    - name: cloth.12.4.R
+      parentName: cloth.12.3R
+      position: {x: -7.4505804e-11, y: 0.0015858302, z: -4.4703483e-10}
+      rotation: {x: 0.08249851, y: 0.05960855, z: -0.095675245, w: 0.9901955}
+      scale: {x: 0.9999995, y: 1.0000012, z: 1.0000005}
+    - name: cloth.12.4.R_end
+      parentName: cloth.12.4.R
+      position: {x: -0, y: 0.0008006047, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.7.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0016750641, y: 0.015703646, z: -0.00046723633}
+      rotation: {x: -0.014568388, y: -0.042181134, z: 0.8159488, w: 0.5763993}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.99999994}
+    - name: cloth.7.2.L
+      parentName: cloth.7.1.L
+      position: {x: -0.000000002363231, y: 0.0011077579, z: 0}
+      rotation: {x: 0.044261474, y: -0.000059878454, z: 0.06801624, w: 0.99670196}
+      scale: {x: 1.0000005, y: 0.99999815, z: 1.0000001}
+    - name: cloth.7.3.L
+      parentName: cloth.7.2.L
+      position: {x: -5.564652e-10, y: 0.0014122209, z: -9.3132255e-12}
+      rotation: {x: 0.00064917275, y: -0.00000024251855, z: 0.03392573, w: 0.99942416}
+      scale: {x: 1.0000008, y: 1.000001, z: 0.9999987}
+    - name: cloth.7.4.L
+      parentName: cloth.7.3.L
+      position: {x: -4.5634804e-10, y: 0.0014315998, z: 3.7252902e-11}
+      rotation: {x: -0.0012621876, y: -0.00000014043076, z: -0.065971576, w: 0.99782073}
+      scale: {x: 0.9999977, y: 1.0000013, z: 1.0000008}
+    - name: cloth.7.5.L
+      parentName: cloth.7.4.L
+      position: {x: -4.9825755e-10, y: 0.0015070662, z: -2.6077032e-10}
+      rotation: {x: 0.0005073196, y: 0.00000015004517, z: 0.026519435, w: 0.99964815}
+      scale: {x: 1.0000046, y: 1.0000037, z: 1.0000004}
+    - name: cloth.7.6.L
+      parentName: cloth.7.5.L
+      position: {x: -1.2107193e-10, y: 0.0016205886, z: -4.5925844e-10}
+      rotation: {x: 0.0021057015, y: -0.000000054383328, z: 0.11006066, w: 0.9939227}
+      scale: {x: 0.99999994, y: 0.99999887, z: 0.9999992}
+    - name: cloth.7.6.L_end
+      parentName: cloth.7.6.L
+      position: {x: -0, y: 0.00097249914, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.8.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0025992587, y: 0.014895163, z: 0.00022579783}
+      rotation: {x: 0.002388358, y: -0.010212868, z: 0.87679446, w: 0.48075098}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: cloth.8.2.L
+      parentName: cloth.8.1.L
+      position: {x: -0.0000000011816155, y: 0.0011618919, z: -4.6566128e-12}
+      rotation: {x: 0.07166166, y: -0.00019541476, z: 0.0064909966, w: 0.99740785}
+      scale: {x: 0.9999999, y: 0.9999984, z: 1.0000001}
+    - name: cloth.8.3.L
+      parentName: cloth.8.2.L
+      position: {x: 4.773028e-10, y: 0.0016816192, z: 0}
+      rotation: {x: 0.003244035, y: 0.0003568604, z: -0.012019368, w: 0.9999225}
+      scale: {x: 0.7959724, y: 0.79597026, z: 0.79597193}
+    - name: cloth.8.4.L
+      parentName: cloth.8.3.L
+      position: {x: 0.000000001466833, y: 0.0014635306, z: -7.4505804e-11}
+      rotation: {x: -0.004411084, y: -0.001672046, z: -0.059129994, w: 0.9982392}
+      scale: {x: 0.91925883, y: 0.91925967, z: 0.9192596}
+    - name: cloth.8.5.L
+      parentName: cloth.8.4.L
+      position: {x: -0.00000000115484, y: 0.0014641722, z: 7.45058e-10}
+      rotation: {x: -0.03466984, y: 0.0019728935, z: 0.15422614, w: 0.98742515}
+      scale: {x: 1.135456, y: 1.1354582, z: 1.1354553}
+    - name: cloth.8.5.L_end
+      parentName: cloth.8.5.L
+      position: {x: -0, y: 0.0011349998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.9.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0031611186, y: 0.013482924, z: 0.00031925592}
+      rotation: {x: 0.05799282, y: 0.085796215, z: 0.92216, w: 0.37268862}
+      scale: {x: 1.0000033, y: 1.0000002, z: 1.0000006}
+    - name: cloth.9.2.L
+      parentName: cloth.9.1.L
+      position: {x: -2.3283064e-12, y: 0.0013688055, z: -3.7252902e-11}
+      rotation: {x: 0.02124334, y: 0.00031175464, z: -0.057075273, w: 0.99814385}
+      scale: {x: 0.7356415, y: 0.73564345, z: 0.7356397}
+    - name: cloth.9.3.L
+      parentName: cloth.9.2.L
+      position: {x: -8.428469e-10, y: 0.0018196921, z: -2.9802322e-10}
+      rotation: {x: -0.055422544, y: 0.00066923694, z: -0.0319784, w: 0.9979506}
+      scale: {x: 0.9148744, y: 0.9148743, z: 0.91487}
+    - name: cloth.9.4.L
+      parentName: cloth.9.3.L
+      position: {x: 7.0780515e-10, y: 0.0013162346, z: 0.0000000020861626}
+      rotation: {x: -0.15884951, y: -0.017124478, z: 0.017617563, w: 0.9869971}
+      scale: {x: 0.79992026, y: 0.79992056, z: 0.7999173}
+    - name: cloth.9.4.L_end
+      parentName: cloth.9.4.L
+      position: {x: -0, y: 0.0008919326, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.10.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0029291478, y: 0.012616391, z: -0.00076286343}
+      rotation: {x: 0.044511173, y: 0.027804615, z: 0.9680758, w: 0.24510193}
+      scale: {x: 1.0000027, y: 1.000005, z: 0.9999998}
+    - name: cloth.10.2.L
+      parentName: cloth.10.1.L
+      position: {x: -3.352761e-10, y: 0.0010530109, z: -3.9348377e-10}
+      rotation: {x: -0.038930565, y: 0.0015951201, z: -0.013964363, w: 0.9991431}
+      scale: {x: 1.0000024, y: 1.0000021, z: 1.0000001}
+    - name: cloth.10.3.L
+      parentName: cloth.10.2.L
+      position: {x: 2.2351741e-10, y: 0.0014851284, z: 3.7252902e-11}
+      rotation: {x: -0.002947628, y: -0.00000012200324, z: -0.043047417, w: 0.99906874}
+      scale: {x: 0.7873827, y: 0.7873827, z: 0.78737694}
+    - name: cloth.10.4.L
+      parentName: cloth.10.3.L
+      position: {x: 8.9057717e-10, y: 0.0014763012, z: -2.3283064e-10}
+      rotation: {x: -0.010754124, y: 0.000000013133857, z: -0.15705886, w: 0.98753077}
+      scale: {x: 0.70671624, y: 0.70671713, z: 0.70671517}
+    - name: cloth.10.4.L_end
+      parentName: cloth.10.4.L
+      position: {x: -0, y: 0.00088505534, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.11.1.L
+      parentName: Root.Tgt
+      position: {x: -0.002371664, y: 0.014871044, z: -0.0014574088}
+      rotation: {x: 0.0023884177, y: -0.010212868, z: 0.87679446, w: 0.48075092}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: cloth.11.2.L
+      parentName: cloth.11.1.L
+      position: {x: 0.0000000012037344, y: 0.0011618923, z: -2.3283064e-12}
+      rotation: {x: -0.061048012, y: -0.00087123417, z: 0.0038742123, w: 0.9981269}
+      scale: {x: 0.9999999, y: 0.9999991, z: 1.0000002}
+    - name: cloth.11.3.L
+      parentName: cloth.11.2.L
+      position: {x: -7.729977e-10, y: 0.0017076381, z: 3.72529e-10}
+      rotation: {x: -0.03176413, y: -0.0027769909, z: 0.010911612, w: 0.99943197}
+      scale: {x: 1.0000045, y: 1.0000044, z: 0.9999986}
+    - name: cloth.11.4.L
+      parentName: cloth.11.3.L
+      position: {x: 1.8626451e-11, y: 0.0014003478, z: -1.8626451e-11}
+      rotation: {x: 0.037340842, y: 0.020903276, z: -0.07284128, w: 0.9964251}
+      scale: {x: 1.0000019, y: 1.0000024, z: 1.0000018}
+    - name: cloth.11.5.L
+      parentName: cloth.11.4.L
+      position: {x: -4.4703483e-10, y: 0.0014385278, z: 3.72529e-10}
+      rotation: {x: 0.075360626, y: -0.029515002, z: 0.16884102, w: 0.98231477}
+      scale: {x: 1.0000061, y: 1.0000066, z: 0.9999976}
+    - name: cloth.11.5.L_end
+      parentName: cloth.11.5.L
+      position: {x: -0, y: 0.0010866589, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloth.12.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0029137668, y: 0.013138341, z: -0.0014338071}
+      rotation: {x: -0.008058042, y: -0.087202735, z: 0.9246249, w: 0.37067452}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: cloth.12.2.L
+      parentName: cloth.12.1.L
+      position: {x: -4.4703483e-10, y: 0.0013792106, z: 0}
+      rotation: {x: 0.02527664, y: 0.022385584, z: -0.0545538, w: 0.9979398}
+      scale: {x: 1.0000044, y: 1.0000048, z: 1.0000011}
+    - name: cloth.12.3.L
+      parentName: cloth.12.2.L
+      position: {x: -8.1956386e-10, y: 0.0017743373, z: -2.9802322e-10}
+      rotation: {x: 0.014514746, y: 0.016443785, z: 0.010890387, w: 0.9997001}
+      scale: {x: 1.0000033, y: 1.0000031, z: 0.9999996}
+    - name: cloth.12.4.L
+      parentName: cloth.12.3.L
+      position: {x: 2.9802322e-10, y: 0.0014143288, z: -5.2154064e-10}
+      rotation: {x: 0.08270739, y: -0.027549807, z: -0.098695144, w: 0.99129194}
+      scale: {x: 1.0000031, y: 1.000002, z: 1.0000012}
+    - name: cloth.12.4.L_end
+      parentName: cloth.12.4.L
+      position: {x: -0, y: 0.0008006047, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.1.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0017501559, y: 0.014423956, z: 0.0007257886}
+      rotation: {x: -0.49777493, y: 0.064508624, z: 0.8579373, w: -0.10955558}
+      scale: {x: 1.0000018, y: 1.0000024, z: 1.0000044}
+    - name: Tgt.cloth.1.2.R
+      parentName: Tgt.cloth.1.1.R
+      position: {x: -0, y: 0.0018890847, z: -1.6298145e-11}
+      rotation: {x: -0.010371536, y: -0.027244724, z: 0.03439702, w: 0.998983}
+      scale: {x: 1.0000063, y: 1.0000068, z: 1.0000023}
+    - name: Tgt.cloth.1.3.R
+      parentName: Tgt.cloth.1.2.R
+      position: {x: 5.9604643e-10, y: 0.0018528048, z: -1.7927959e-10}
+      rotation: {x: 0.015113534, y: 0.040990908, z: -0.024199778, w: 0.9987521}
+      scale: {x: 0.999998, y: 0.99999565, z: 0.9999974}
+    - name: Tgt.cloth.1.4.R
+      parentName: Tgt.cloth.1.3.R
+      position: {x: -7.4505804e-11, y: 0.0019366689, z: -1.862645e-10}
+      rotation: {x: 0.0015152439, y: -0.0292824, z: -0.075120345, w: 0.99674326}
+      scale: {x: 0.99999845, y: 1.0000012, z: 1.0000005}
+    - name: Tgt.cloth.1.5.R
+      parentName: Tgt.cloth.1.4.R
+      position: {x: -2.9802322e-10, y: 0.0018619184, z: 1.11758706e-10}
+      rotation: {x: -0.010883192, y: 0.037751816, z: -0.011463979, w: 0.99916214}
+      scale: {x: 0.9999998, y: 0.99999875, z: 0.9999993}
+    - name: Tgt.cloth.1.6.R
+      parentName: Tgt.cloth.1.5.R
+      position: {x: -0, y: 0.00177405, z: 1.862645e-10}
+      rotation: {x: -0.043056436, y: -0.002681315, z: -0.11767365, w: 0.9921149}
+      scale: {x: 1.0000018, y: 1.0000029, z: 0.9999999}
+    - name: Tgt.cloth.1.6.R_end
+      parentName: Tgt.cloth.1.6.R
+      position: {x: -0, y: 0.00097550335, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.2.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0025138333, y: 0.012602326, z: 0.0005122221}
+      rotation: {x: -0.31670183, y: 0.0047172313, z: 0.9392967, w: -0.13190661}
+      scale: {x: 1.0000001, y: 1.0000015, z: 1.0000004}
+    - name: Tgt.cloth.2.2.R
+      parentName: Tgt.cloth.2.1.R
+      position: {x: -4.0978193e-10, y: 0.0017195542, z: -1.11758706e-10}
+      rotation: {x: 0.006960675, y: -0.03506042, z: 0.061338566, w: 0.99747676}
+      scale: {x: 1.000003, y: 1.0000018, z: 1.000001}
+    - name: Tgt.cloth.2.3.R
+      parentName: Tgt.cloth.2.2.R
+      position: {x: -4.842877e-10, y: 0.0019193755, z: -2.0023434e-10}
+      rotation: {x: 0.018538356, y: -0.0193318, z: -0.035059046, w: 0.9990263}
+      scale: {x: 1.0000039, y: 1.0000058, z: 1.0000006}
+    - name: Tgt.cloth.2.4.R
+      parentName: Tgt.cloth.2.3.R
+      position: {x: -5.9604643e-10, y: 0.0018808572, z: 5.5879353e-11}
+      rotation: {x: 0.000419788, y: -0.018260224, z: -0.04781361, w: 0.99868923}
+      scale: {x: 1.0000048, y: 1.0000045, z: 1}
+    - name: Tgt.cloth.2.5.R
+      parentName: Tgt.cloth.2.4.R
+      position: {x: -2.2351741e-10, y: 0.0018032801, z: 1.8626451e-11}
+      rotation: {x: -0.02250045, y: -0.0033300854, z: -0.1728744, w: 0.98468125}
+      scale: {x: 0.999999, y: 0.9999985, z: 0.99999964}
+    - name: Tgt.cloth.2.5.R_end
+      parentName: Tgt.cloth.2.5.R
+      position: {x: -0, y: 0.0010336911, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.3.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0026869595, y: 0.012537089, z: -0.00025928504}
+      rotation: {x: -0.074769266, y: 0.018009963, z: 0.9859536, w: -0.14825891}
+      scale: {x: 1.0000044, y: 1.0000024, z: 1}
+    - name: Tgt.cloth.3.2.R
+      parentName: Tgt.cloth.3.1.R
+      position: {x: 2.7474015e-10, y: 0.0017163637, z: 7.4505804e-11}
+      rotation: {x: -0.012136329, y: -0.000022661407, z: 0.024126373, w: 0.99963534}
+      scale: {x: 1.000002, y: 1.0000032, z: 1.0000002}
+    - name: Tgt.cloth.3.3.R
+      parentName: Tgt.cloth.3.2.R
+      position: {x: 4.71482e-10, y: 0.0018522673, z: 2.7939677e-11}
+      rotation: {x: -0.010607258, y: 0.00017405316, z: 0.03968404, w: 0.999156}
+      scale: {x: 1.0000025, y: 1.0000018, z: 1.0000006}
+    - name: Tgt.cloth.3.4.R
+      parentName: Tgt.cloth.3.3.R
+      position: {x: 4.722824e-10, y: 0.0017792357, z: -2.73576e-11}
+      rotation: {x: 0.010522928, y: 0.000000073181575, z: -0.05438271, w: 0.99846476}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000005}
+    - name: Tgt.cloth.3.5.R
+      parentName: Tgt.cloth.3.4.R
+      position: {x: 2.2933817e-10, y: 0.0017612297, z: -9.3132255e-12}
+      rotation: {x: -0.06960154, y: -0.0037413645, z: -0.16479503, w: 0.9838619}
+      scale: {x: 1.0000027, y: 1.0000025, z: 0.9999995}
+    - name: Tgt.cloth.3.5.R_end
+      parentName: Tgt.cloth.3.5.R
+      position: {x: -0, y: 0.0011344883, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.4.1.R
+      parentName: Root.Tgt
+      position: {x: 0.002638852, y: 0.012714311, z: -0.0009950654}
+      rotation: {x: 0.20482291, y: -0.04665327, z: 0.97003686, w: -0.12206373}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: Tgt.cloth.4.2.R
+      parentName: Tgt.cloth.4.1.R
+      position: {x: 7.4505804e-11, y: 0.0017241496, z: -1.8626451e-11}
+      rotation: {x: 0.0122371465, y: 0.00015807805, z: 0.02164895, w: 0.9996907}
+      scale: {x: 0.9999967, y: 0.99999565, z: 0.99999964}
+    - name: Tgt.cloth.4.3.R
+      parentName: Tgt.cloth.4.2.R
+      position: {x: 5.9604643e-10, y: 0.0017757395, z: 0}
+      rotation: {x: 0.007865846, y: -0.0008663738, z: 0.044953078, w: 0.99895775}
+      scale: {x: 0.99999857, y: 1.0000021, z: 1.0000002}
+    - name: Tgt.cloth.4.4.R
+      parentName: Tgt.cloth.4.3.R
+      position: {x: -4.4703483e-10, y: 0.001802616, z: -2.0139851e-10}
+      rotation: {x: -0.026573548, y: 0.0014593755, z: -0.06708454, w: 0.9973923}
+      scale: {x: 1.000002, y: 1.0000024, z: 0.99999917}
+    - name: Tgt.cloth.4.5.R
+      parentName: Tgt.cloth.4.4.R
+      position: {x: -7.4505804e-11, y: 0.001904291, z: 2.7939676e-10}
+      rotation: {x: 0.10095042, y: -0.04398398, z: -0.14165425, w: 0.98377264}
+      scale: {x: 1.0000069, y: 1.0000097, z: 1.0000007}
+    - name: Tgt.cloth.4.5.R_end
+      parentName: Tgt.cloth.4.5.R
+      position: {x: -0, y: 0.00089120347, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.5.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0015624879, y: 0.015783558, z: -0.001060129}
+      rotation: {x: 0.4769142, y: -0.16175947, z: 0.8213507, w: -0.267899}
+      scale: {x: 1.0000021, y: 1.0000011, z: 1}
+    - name: Tgt.cloth.5.2.R
+      parentName: Tgt.cloth.5.1.R
+      position: {x: 0.0000000020116566, y: 0.0010037951, z: -4.656613e-10}
+      rotation: {x: 0.007438367, y: -0.0013134442, z: -0.2542801, w: 0.9671012}
+      scale: {x: 1.0000029, y: 1.0000031, z: 0.9999999}
+    - name: Tgt.cloth.5.3.R
+      parentName: Tgt.cloth.5.2.R
+      position: {x: 1.4901161e-10, y: 0.0023677428, z: 1.11758706e-10}
+      rotation: {x: 0.06617349, y: -0.0022612244, z: 0.042483527, w: 0.9969008}
+      scale: {x: 1.0000013, y: 1.0000019, z: 1.0000008}
+    - name: Tgt.cloth.5.4.R
+      parentName: Tgt.cloth.5.3.R
+      position: {x: 1.4901161e-10, y: 0.0018583799, z: -2.9802322e-10}
+      rotation: {x: 0.00029359752, y: 0.00018707426, z: 0.026285015, w: 0.9996545}
+      scale: {x: 1.0000036, y: 1.000005, z: 1.0000025}
+    - name: Tgt.cloth.5.5.R
+      parentName: Tgt.cloth.5.4.R
+      position: {x: -0, y: 0.0017600213, z: 7.4505804e-11}
+      rotation: {x: -0.000855006, y: -0.000046559482, z: -0.00960209, w: 0.9999536}
+      scale: {x: 1.0000032, y: 1.0000025, z: 0.9999994}
+    - name: Tgt.cloth.5.6.R
+      parentName: Tgt.cloth.5.5.R
+      position: {x: 2.9802322e-10, y: 0.0018402383, z: -3.72529e-10}
+      rotation: {x: -0.020197505, y: 0.031215718, z: -0.012108757, w: 0.9992352}
+      scale: {x: 0.99999887, y: 0.9999989, z: 1.0000013}
+    - name: Tgt.cloth.5.7.R
+      parentName: Tgt.cloth.5.6.R
+      position: {x: 2.9802322e-10, y: 0.0016440783, z: -1.11758706e-10}
+      rotation: {x: -0.021004234, y: -0.000000109896035, z: -0.15438913, w: 0.9877868}
+      scale: {x: 1.0000014, y: 1.0000005, z: 0.99999964}
+    - name: Tgt.cloth.5.7.R_end
+      parentName: Tgt.cloth.5.7.R
+      position: {x: -0, y: 0.00097194075, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.6.1.R
+      parentName: Root.Tgt
+      position: {x: 0.00081456517, y: 0.015680615, z: -0.0016221553}
+      rotation: {x: 0.5553816, y: -0.08593259, z: 0.81176907, w: -0.15873851}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000015}
+    - name: Tgt.cloth.6.2.R
+      parentName: Tgt.cloth.6.1.R
+      position: {x: 1.4901161e-10, y: 0.0013762359, z: 1.4901161e-10}
+      rotation: {x: -0.008990228, y: 0.0025592912, z: -0.089057356, w: 0.9959827}
+      scale: {x: 0.9999984, y: 0.99999994, z: 0.9999998}
+    - name: Tgt.cloth.6.3.R
+      parentName: Tgt.cloth.6.2.R
+      position: {x: -1.11758706e-10, y: 0.0019782989, z: 1.11758706e-10}
+      rotation: {x: -0.006731322, y: -0.044874657, z: 0.008207007, w: 0.9989363}
+      scale: {x: 1.0000037, y: 1.0000038, z: 1.0000015}
+    - name: Tgt.cloth.6.4.R
+      parentName: Tgt.cloth.6.3.R
+      position: {x: -3.352761e-10, y: 0.0016573414, z: 3.7252902e-11}
+      rotation: {x: -0.002470359, y: 0.000023279335, z: -0.0073193437, w: 0.99997026}
+      scale: {x: 1.0000052, y: 1.0000058, z: 1.0000021}
+    - name: Tgt.cloth.6.5.R
+      parentName: Tgt.cloth.6.4.R
+      position: {x: -7.4505804e-11, y: 0.0016080637, z: -1.862645e-10}
+      rotation: {x: 0.004668659, y: 0.00012271153, z: 0.010260552, w: 0.99993646}
+      scale: {x: 0.9999979, y: 0.9999992, z: 0.9999992}
+    - name: Tgt.cloth.6.6.R
+      parentName: Tgt.cloth.6.5.R
+      position: {x: -2.9802322e-10, y: 0.0016220639, z: 1.11758706e-10}
+      rotation: {x: -0.005341268, y: -0.00024012827, z: -0.011136329, w: 0.99992377}
+      scale: {x: 1.0000048, y: 1.000007, z: 1.0000015}
+    - name: Tgt.cloth.6.7.R
+      parentName: Tgt.cloth.6.6.R
+      position: {x: -6.705522e-10, y: 0.0020037012, z: -5.5879353e-11}
+      rotation: {x: 0.036222875, y: 0.00000018092392, z: -0.09735207, w: 0.9945907}
+      scale: {x: 1.000002, y: 1.0000017, z: 1.0000023}
+    - name: Tgt.cloth.6.7.R_end
+      parentName: Tgt.cloth.6.7.R
+      position: {x: -0, y: 0.0009965239, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.1.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0017501559, y: 0.014423956, z: 0.0007257886}
+      rotation: {x: 0.8067816, y: -0.11518731, z: -0.57700926, w: 0.05381203}
+      scale: {x: 1.0000013, y: 1.0000025, z: 1.0000056}
+    - name: Tgt.cloth.1.2.L
+      parentName: Tgt.cloth.1.1.L
+      position: {x: -7.4505804e-11, y: 0.0018890846, z: 1.4901161e-10}
+      rotation: {x: 0.016549906, y: 0.031603593, z: 0.031887766, w: 0.9988546}
+      scale: {x: 1.0000026, y: 1.0000023, z: 1.0000036}
+    - name: Tgt.cloth.1.3.L
+      parentName: Tgt.cloth.1.2.L
+      position: {x: -0, y: 0.0018528068, z: 3.7252902e-11}
+      rotation: {x: -0.018467233, y: -0.0052376543, z: -0.02174835, w: 0.9995792}
+      scale: {x: 1.0000015, y: 1.0000042, z: 1.0000021}
+    - name: Tgt.cloth.1.4.L
+      parentName: Tgt.cloth.1.3.L
+      position: {x: 7.4505804e-11, y: 0.0019366691, z: 1.8626451e-11}
+      rotation: {x: -0.0075338185, y: 0.058838952, z: -0.07475656, w: 0.995436}
+      scale: {x: 1.0000001, y: 1.0000042, z: 1.0000031}
+    - name: Tgt.cloth.1.5.L
+      parentName: Tgt.cloth.1.4.L
+      position: {x: 7.45058e-10, y: 0.0018619185, z: -9.546056e-11}
+      rotation: {x: 0.010569229, y: -0.01420127, z: -0.011754109, w: 0.9997742}
+      scale: {x: 1.0000013, y: 1.000001, z: 1.0000008}
+    - name: Tgt.cloth.1.6.L
+      parentName: Tgt.cloth.1.5.L
+      position: {x: -2.9802322e-10, y: 0.0017740497, z: 3.72529e-10}
+      rotation: {x: 0.008277714, y: -0.00209011, z: -0.09484556, w: 0.9954554}
+      scale: {x: 0.9999993, y: 1.0000004, z: 1.0000006}
+    - name: Tgt.cloth.1.6.L_end
+      parentName: Tgt.cloth.1.6.L
+      position: {x: -0, y: 0.00076555944, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.2.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0025138333, y: 0.012602326, z: 0.0005122221}
+      rotation: {x: 0.96630037, y: -0.13077027, z: -0.22100237, w: 0.01790893}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: Tgt.cloth.2.2.L
+      parentName: Tgt.cloth.2.1.L
+      position: {x: 7.4505804e-11, y: 0.0017195526, z: 2.0489097e-10}
+      rotation: {x: -0.017609451, y: 0.010679516, z: 0.059167303, w: 0.9980356}
+      scale: {x: 0.99999994, y: 1.0000023, z: 1.0000007}
+    - name: Tgt.cloth.2.3.L
+      parentName: Tgt.cloth.2.2.L
+      position: {x: 2.6077032e-10, y: 0.0019193757, z: 2.2351741e-10}
+      rotation: {x: -0.0138685545, y: -0.0033383693, z: -0.037154697, w: 0.99920774}
+      scale: {x: 0.99999964, y: 1.0000006, z: 1.0000027}
+    - name: Tgt.cloth.2.4.L
+      parentName: Tgt.cloth.2.3.L
+      position: {x: 0.000000001117587, y: 0.0018808575, z: -3.9115547e-10}
+      rotation: {x: 0.004451052, y: 0.010405356, z: -0.04537633, w: 0.9989059}
+      scale: {x: 1.0000002, y: 1.000009, z: 1.0000063}
+    - name: Tgt.cloth.2.5.L
+      parentName: Tgt.cloth.2.4.L
+      position: {x: -0.0000000010430813, y: 0.0016922245, z: -9.3132255e-12}
+      rotation: {x: 0.031265188, y: -0.0013021658, z: -0.15215746, w: 0.9878608}
+      scale: {x: 0.99999803, y: 1.0000002, z: 0.99999905}
+    - name: Tgt.cloth.2.5.L_end
+      parentName: Tgt.cloth.2.5.L
+      position: {x: -0, y: 0.0009934915, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.3.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0026869595, y: 0.012537089, z: -0.00025928504}
+      rotation: {x: 0.074769266, y: 0.018009963, z: 0.9859536, w: 0.14825891}
+      scale: {x: 1.0000044, y: 1.0000024, z: 1}
+    - name: Tgt.cloth.3.2.L
+      parentName: Tgt.cloth.3.1.L
+      position: {x: -2.7474015e-10, y: 0.0017163637, z: 7.4505804e-11}
+      rotation: {x: -0.024968386, y: -0.99681973, z: 0.010293174, w: 0.07497379}
+      scale: {x: 0.99999946, y: 1.0000002, z: 1.0000011}
+    - name: Tgt.cloth.3.3.L
+      parentName: Tgt.cloth.3.2.L
+      position: {x: -5.8644214e-11, y: 0.0018522659, z: 3.1432135e-11}
+      rotation: {x: 0.003590753, y: 0.023365572, z: 0.040920015, w: 0.9988828}
+      scale: {x: 1.000001, y: 1.0000026, z: 1.0000008}
+    - name: Tgt.cloth.3.4.L
+      parentName: Tgt.cloth.3.3.L
+      position: {x: -5.3754773e-10, y: 0.0017792372, z: 2.3283063e-11}
+      rotation: {x: 0.0022833634, y: -0.009716813, z: -0.068158366, w: 0.99762464}
+      scale: {x: 0.99999833, y: 1.0000014, z: 1.0000007}
+    - name: Tgt.cloth.3.5.L
+      parentName: Tgt.cloth.3.4.L
+      position: {x: -2.3967003e-10, y: 0.0019139718, z: 1.3969838e-11}
+      rotation: {x: 0.0066125942, y: 0.0032206397, z: -0.1809371, w: 0.98346716}
+      scale: {x: 0.9999991, y: 1.0000015, z: 0.99999976}
+    - name: Tgt.cloth.3.5.L_end
+      parentName: Tgt.cloth.3.5.L
+      position: {x: -0, y: 0.0011353145, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.4.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0025887801, y: 0.012633365, z: -0.00090472354}
+      rotation: {x: 0.9616699, y: -0.12372789, z: 0.24107032, w: -0.042041153}
+      scale: {x: 0.9999997, y: 1.0000021, z: 1.0000023}
+    - name: Tgt.cloth.4.2.L
+      parentName: Tgt.cloth.4.1.L
+      position: {x: 4.4703483e-10, y: 0.0017241501, z: 2.6077032e-10}
+      rotation: {x: -0.014468367, y: 0.031243112, z: 0.020226056, w: 0.99920243}
+      scale: {x: 1.0000002, y: 0.99999857, z: 0.9999974}
+    - name: Tgt.cloth.4.3.L
+      parentName: Tgt.cloth.4.2.L
+      position: {x: 2.9802322e-10, y: 0.0017757397, z: -3.7252902e-11}
+      rotation: {x: -0.012329991, y: -0.036610812, z: 0.0439389, w: 0.998287}
+      scale: {x: 1.0000012, y: 1.0000046, z: 1.0000049}
+    - name: Tgt.cloth.4.4.L
+      parentName: Tgt.cloth.4.3.L
+      position: {x: -3.72529e-10, y: 0.0018026164, z: -1.2107193e-10}
+      rotation: {x: 0.024469286, y: -0.02662418, z: -0.05705572, w: 0.99771595}
+      scale: {x: 1.0000008, y: 1.0000054, z: 1.0000048}
+    - name: Tgt.cloth.4.5.L
+      parentName: Tgt.cloth.4.4.L
+      position: {x: 2.9802322e-10, y: 0.0019130566, z: -2.2351741e-10}
+      rotation: {x: -0.04637881, y: -0.000000076368444, z: -0.18117009, w: 0.98235756}
+      scale: {x: 0.9999979, y: 1.0000005, z: 0.99999875}
+    - name: Tgt.cloth.4.5.L_end
+      parentName: Tgt.cloth.4.5.L
+      position: {x: -0, y: 0.0011139258, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.5.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0015624879, y: 0.015783558, z: -0.001060129}
+      rotation: {x: -0.4769142, y: -0.16175947, z: 0.8213507, w: 0.267899}
+      scale: {x: 1.0000021, y: 1.0000011, z: 1}
+    - name: Tgt.cloth.5.2.L
+      parentName: Tgt.cloth.5.1.L
+      position: {x: -0.0000000020116566, y: 0.0010037951, z: -4.656613e-10}
+      rotation: {x: 0.25422195, y: -0.9670868, z: -0.009213434, w: -0.005438372}
+      scale: {x: 1.0000018, y: 1.000008, z: 1.0000046}
+    - name: Tgt.cloth.5.3.L
+      parentName: Tgt.cloth.5.2.L
+      position: {x: -0, y: 0.0023677428, z: 1.5366822e-10}
+      rotation: {x: -0.066651225, y: 0.027486823, z: 0.04173016, w: 0.9965243}
+      scale: {x: 0.9999989, y: 0.99999785, z: 0.9999976}
+    - name: Tgt.cloth.5.4.L
+      parentName: Tgt.cloth.5.3.L
+      position: {x: -3.72529e-10, y: 0.0018583793, z: -5.2154064e-10}
+      rotation: {x: 0.00041745603, y: -0.063826256, z: 0.026283225, w: 0.99761486}
+      scale: {x: 0.99999934, y: 1.000003, z: 1.0000038}
+    - name: Tgt.cloth.5.5.L
+      parentName: Tgt.cloth.5.4.L
+      position: {x: 5.9604643e-10, y: 0.0017600205, z: -7.4505804e-11}
+      rotation: {x: -0.00032986506, y: -0.032234736, z: -0.009634283, w: 0.9994338}
+      scale: {x: 1.0000025, y: 1.0000061, z: 1.000004}
+    - name: Tgt.cloth.5.6.L
+      parentName: Tgt.cloth.5.5.L
+      position: {x: -1.4901161e-10, y: 0.0018402388, z: -7.4505804e-11}
+      rotation: {x: 0.01977828, y: 0.05142226, z: -0.008570955, w: 0.9984444}
+      scale: {x: 1.0000014, y: 1.0000048, z: 1.0000044}
+    - name: Tgt.cloth.5.7.L
+      parentName: Tgt.cloth.5.6.L
+      position: {x: 2.9802322e-10, y: 0.0016694351, z: 3.72529e-10}
+      rotation: {x: 0.015047777, y: -0.000000044703484, z: -0.16622832, w: 0.9859725}
+      scale: {x: 1.0000026, y: 1.0000005, z: 1.0000026}
+    - name: Tgt.cloth.5.7.L_end
+      parentName: Tgt.cloth.5.7.L
+      position: {x: -0, y: 0.0012380966, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.6.1.L
+      parentName: Root.Tgt
+      position: {x: -0.00081456517, y: 0.015680615, z: -0.0016221553}
+      rotation: {x: 0.80791694, y: -0.1593285, z: 0.5609704, w: -0.08483452}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000017}
+    - name: Tgt.cloth.6.2.L
+      parentName: Tgt.cloth.6.1.L
+      position: {x: 7.4505804e-11, y: 0.001376235, z: 2.2351741e-10}
+      rotation: {x: 0.011621121, y: 0.0131652905, z: -0.08875243, w: 0.9958989}
+      scale: {x: 0.9999987, y: 1, z: 1.0000008}
+    - name: Tgt.cloth.6.3.L
+      parentName: Tgt.cloth.6.2.L
+      position: {x: -2.6077032e-10, y: 0.0019782977, z: 1.4901161e-10}
+      rotation: {x: 0.0064847553, y: 0.029178351, z: 0.008403112, w: 0.99951786}
+      scale: {x: 1.0000019, y: 1.0000042, z: 1.0000015}
+    - name: Tgt.cloth.6.4.L
+      parentName: Tgt.cloth.6.3.L
+      position: {x: 1.11758706e-10, y: 0.0016573394, z: 3.7252902e-11}
+      rotation: {x: 0.0022905841, y: -0.038409993, z: -0.007377335, w: 0.99923223}
+      scale: {x: 1.0000032, y: 1.0000068, z: 1.0000064}
+    - name: Tgt.cloth.6.5.L
+      parentName: Tgt.cloth.6.4.L
+      position: {x: 1.862645e-10, y: 0.0016080625, z: 2.188608e-10}
+      rotation: {x: -0.004307561, y: 0.027797287, z: 0.010417138, w: 0.99955004}
+      scale: {x: 1.0000007, y: 1.0000001, z: 0.99999833}
+    - name: Tgt.cloth.6.6.L
+      parentName: Tgt.cloth.6.5.L
+      position: {x: -2.6077032e-10, y: 0.0016220632, z: 1.6763806e-10}
+      rotation: {x: 0.0048800954, y: -0.03378476, z: -0.011345886, w: 0.9993528}
+      scale: {x: 1.0000005, y: 0.9999963, z: 1.0000002}
+    - name: Tgt.cloth.6.7.L
+      parentName: Tgt.cloth.6.6.L
+      position: {x: 3.72529e-10, y: 0.0020037012, z: 4.0599843e-11}
+      rotation: {x: 0.017054465, y: 0.00000020861626, z: -0.13326378, w: 0.9909339}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999985}
+    - name: Tgt.cloth.6.7.L_end
+      parentName: Tgt.cloth.6.7.L
+      position: {x: -0, y: 0.001177364, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.0.1.L
+      parentName: Root.Tgt
+      position: {x: 0.000002139979, y: 0.01574213, z: -0.0017286967}
+      rotation: {x: 0.6986878, y: -0.109999895, z: 0.698372, w: -0.10959917}
+      scale: {x: 1, y: 1.0000025, z: 1.0000014}
+    - name: Tgt.cloth.0.2.L
+      parentName: Tgt.cloth.0.1.L
+      position: {x: -4.4280346e-10, y: 0.0013715702, z: -7.2759575e-14}
+      rotation: {x: 0.00007785112, y: -0.0000037616119, z: -0.05207574, w: 0.99864316}
+      scale: {x: 1.0000024, y: 1.0000035, z: 1.0000023}
+    - name: Tgt.cloth.0.3.L
+      parentName: Tgt.cloth.0.2.L
+      position: {x: 2.3697523e-11, y: 0.0019939211, z: -6.5483616e-13}
+      rotation: {x: -0.000029511377, y: 0.00000039910654, z: -0.0026183724, w: 0.9999966}
+      scale: {x: 1.0000043, y: 1.0000055, z: 1.0000023}
+    - name: Tgt.cloth.0.4.L
+      parentName: Tgt.cloth.0.3.L
+      position: {x: -1.8697056e-10, y: 0.0017622388, z: -2.5465852e-13}
+      rotation: {x: -0.000036550555, y: -0.0000015805924, z: -0.002341919, w: 0.9999973}
+      scale: {x: 1.0000021, y: 1.0000044, z: 1.0000043}
+    - name: Tgt.cloth.0.5.L
+      parentName: Tgt.cloth.0.4.L
+      position: {x: 4.1235494e-11, y: 0.0015389879, z: 1.4551915e-13}
+      rotation: {x: 0.000003208391, y: 0.000000116139944, z: -0.02075796, w: 0.9997845}
+      scale: {x: 0.9999985, y: 0.9999995, z: 0.9999976}
+    - name: Tgt.cloth.0.6.L
+      parentName: Tgt.cloth.0.5.L
+      position: {x: -2.3298697e-13, y: 0.0016094185, z: -2.910383e-13}
+      rotation: {x: 0.000057717127, y: 0.0000030585447, z: 0.008647552, w: 0.9999626}
+      scale: {x: 1.0000008, y: 1.0000027, z: 1.0000011}
+    - name: Tgt.cloth.0.7.L
+      parentName: Tgt.cloth.0.6.L
+      position: {x: 2.5542135e-10, y: 0.0020145478, z: -5.820766e-13}
+      rotation: {x: -0.026339222, y: -0.000000019896786, z: -0.11352481, w: 0.99318606}
+      scale: {x: 0.9999993, y: 1.0000033, z: 1.000001}
+    - name: Tgt.cloth.0.7.L_end
+      parentName: Tgt.cloth.0.7.L
+      position: {x: -0, y: 0.00093212194, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.7.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0016750641, y: 0.015703645, z: -0.0004672363}
+      rotation: {x: -0.014568388, y: 0.042181134, z: -0.8159487, w: 0.5763993}
+      scale: {x: 0.99999946, y: 0.9999996, z: 0.99999994}
+    - name: Tgt.cloth.7.2.R
+      parentName: Tgt.cloth.7.1.R
+      position: {x: 0.0000000010966323, y: 0.0011077576, z: -5.5879353e-11}
+      rotation: {x: 0.044261467, y: 0.000059925023, z: -0.068016365, w: 0.99670196}
+      scale: {x: 1.0000017, y: 0.9999992, z: 0.99999994}
+    - name: Tgt.cloth.7.3.R
+      parentName: Tgt.cloth.7.2.R
+      position: {x: 0.0000000018056016, y: 0.0014122209, z: 1.2107193e-10}
+      rotation: {x: -0.0006491616, y: -0.00000021393495, z: 0.033925697, w: -0.99942416}
+      scale: {x: 1.0000014, y: 1.0000024, z: 0.99999976}
+    - name: Tgt.cloth.7.4.R
+      parentName: Tgt.cloth.7.3.R
+      position: {x: -5.890615e-10, y: 0.0014315983, z: 4.6566126e-11}
+      rotation: {x: 0.0012621998, y: -0.00000011879473, z: -0.06597179, w: -0.9978207}
+      scale: {x: 1.0000013, y: 1.0000018, z: 1}
+    - name: Tgt.cloth.7.5.R
+      parentName: Tgt.cloth.7.4.R
+      position: {x: 1.839362e-10, y: 0.0015070658, z: 9.3132255e-12}
+      rotation: {x: 0.00050730846, y: -0.00000010966599, z: -0.026519474, w: 0.9996482}
+      scale: {x: 1.0000033, y: 1.0000042, z: 1.0000001}
+    - name: Tgt.cloth.7.6.R
+      parentName: Tgt.cloth.7.5.R
+      position: {x: 3.3644026e-10, y: 0.0016205907, z: -2.7939677e-11}
+      rotation: {x: -0.0021058042, y: 0.0000000038188754, z: 0.11006083, w: -0.99392265}
+      scale: {x: 1.0000045, y: 1.0000021, z: 1.0000002}
+    - name: Tgt.cloth.7.6.R_end
+      parentName: Tgt.cloth.7.6.R
+      position: {x: -0, y: 0.00097249914, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.9.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0031611186, y: 0.013482924, z: 0.0003192559}
+      rotation: {x: 0.706238, y: 0.20988764, z: -0.5957938, w: 0.3196951}
+      scale: {x: 1.000001, y: 1.0000025, z: 1.0000015}
+    - name: Tgt.cloth.9.2.R
+      parentName: Tgt.cloth.9.1.R
+      position: {x: -9.313225e-11, y: 0.001368805, z: 6.239861e-10}
+      rotation: {x: -0.0571675, y: -0.039498627, z: 0.020994082, w: 0.9973621}
+      scale: {x: 0.9660939, y: 0.96609384, z: 0.9660923}
+    - name: Tgt.cloth.9.3.R
+      parentName: Tgt.cloth.9.2.R
+      position: {x: -7.4505804e-11, y: 0.0018196916, z: -9.522773e-10}
+      rotation: {x: -0.032460712, y: 0.025454389, z: -0.055141427, w: 0.99762607}
+      scale: {x: 0.85382044, y: 0.8538198, z: 0.85381985}
+    - name: Tgt.cloth.9.4.R
+      parentName: Tgt.cloth.9.3.R
+      position: {x: -6.519258e-11, y: 0.0013162363, z: 0.000000001117587}
+      rotation: {x: -0.012897134, y: 0.02938848, z: 0.1593021, w: -0.9867081}
+      scale: {x: 0.8761137, y: 0.87611574, z: 0.8761159}
+    - name: Tgt.cloth.9.4.R_end
+      parentName: Tgt.cloth.9.4.R
+      position: {x: -0, y: 0.0008919326, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.10.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0031309128, y: 0.01263525, z: -0.00027649288}
+      rotation: {x: 0.9651368, y: 0.24609636, z: 0.0875379, w: 0.016872229}
+      scale: {x: 0.9999999, y: 1.0000045, z: 1.0000043}
+    - name: Tgt.cloth.10.2.R
+      parentName: Tgt.cloth.10.1.R
+      position: {x: -7.9860907e-10, y: 0.0010530116, z: -1.3038516e-10}
+      rotation: {x: 0.039750583, y: -0.026005888, z: -0.011423007, w: 0.9988059}
+      scale: {x: 1.0000007, y: 0.9999995, z: 1}
+    - name: Tgt.cloth.10.3.R
+      parentName: Tgt.cloth.10.2.R
+      position: {x: 6.9849193e-10, y: 0.0014851271, z: 1.8626451e-11}
+      rotation: {x: 0.0037359523, y: -0.021794394, z: -0.042986147, w: 0.998831}
+      scale: {x: 0.9999991, y: 0.9999995, z: 1.000001}
+    - name: Tgt.cloth.10.4.R
+      parentName: Tgt.cloth.10.3.R
+      position: {x: 3.3760442e-11, y: 0.0014763006, z: -3.7252902e-11}
+      rotation: {x: 0.0074626547, y: -0.01723491, z: -0.15724958, w: 0.9873803}
+      scale: {x: 1.0000007, y: 1.0000058, z: 1.0000073}
+    - name: Tgt.cloth.10.4.R_end
+      parentName: Tgt.cloth.10.4.R
+      position: {x: -0, y: 0.00088505534, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.12.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0028457136, y: 0.013492713, z: -0.0013808146}
+      rotation: {x: 0.7615728, y: 0.2533736, z: 0.52440715, w: -0.2842638}
+      scale: {x: 0.9999998, y: 1.0000025, z: 1.0000013}
+    - name: Tgt.cloth.12.2.R
+      parentName: Tgt.cloth.12.1.R
+      position: {x: -1.4901161e-10, y: 0.00137921, z: 3.7252902e-11}
+      rotation: {x: 0.045539904, y: 0.035798777, z: -0.0363379, w: 0.9976593}
+      scale: {x: 1.0000035, y: 1.0000043, z: 1.0000038}
+    - name: Tgt.cloth.12.3R
+      parentName: Tgt.cloth.12.2.R
+      position: {x: -0, y: 0.001603072, z: 0.0000000012293457}
+      rotation: {x: -0.012887683, y: 0.00012822822, z: -0.017528782, w: 0.9997633}
+      scale: {x: 1.000001, y: 1.0000007, z: 0.9999998}
+    - name: Tgt.cloth.12.4.R
+      parentName: Tgt.cloth.12.3R
+      position: {x: -7.4505804e-11, y: 0.0015858302, z: -0.000000001899898}
+      rotation: {x: 0.08249847, y: 0.059608467, z: -0.09567524, w: 0.99019545}
+      scale: {x: 1.0000019, y: 1.000006, z: 1.0000036}
+    - name: Tgt.cloth.12.4.R_end
+      parentName: Tgt.cloth.12.4.R
+      position: {x: -0, y: 0.0008006047, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.7.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0016750641, y: 0.015703645, z: -0.0004672363}
+      rotation: {x: -0.014568388, y: -0.042181134, z: 0.8159487, w: 0.5763993}
+      scale: {x: 0.99999946, y: 0.9999996, z: 0.99999994}
+    - name: Tgt.cloth.7.2.L
+      parentName: Tgt.cloth.7.1.L
+      position: {x: -0.0000000010966323, y: 0.0011077576, z: -5.5879353e-11}
+      rotation: {x: 0.044261474, y: -0.000059878454, z: 0.06801627, w: 0.99670196}
+      scale: {x: 1.0000007, y: 0.9999983, z: 1.0000001}
+    - name: Tgt.cloth.7.3.L
+      parentName: Tgt.cloth.7.2.L
+      position: {x: -5.634501e-10, y: 0.0014122211, z: 1.2572854e-10}
+      rotation: {x: 0.0006490759, y: -0.0000003030582, z: 0.033925734, w: 0.9994242}
+      scale: {x: 1.0000008, y: 1.000001, z: 0.9999988}
+    - name: Tgt.cloth.7.4.L
+      parentName: Tgt.cloth.7.3.L
+      position: {x: -1.5832484e-10, y: 0.0014316001, z: -5.5879353e-11}
+      rotation: {x: -0.0012621296, y: -0.00000006855043, z: -0.065971725, w: 0.99782073}
+      scale: {x: 1.0000001, y: 1.0000029, z: 1.0000006}
+    - name: Tgt.cloth.7.5.L
+      parentName: Tgt.cloth.7.4.L
+      position: {x: 0.0000000024819746, y: 0.0015070647, z: 1.11758706e-10}
+      rotation: {x: 0.0005073762, y: 0.0000001185083, z: 0.026519468, w: 0.9996482}
+      scale: {x: 1.0000029, y: 1.0000029, z: 0.9999999}
+    - name: Tgt.cloth.7.6.L
+      parentName: Tgt.cloth.7.5.L
+      position: {x: -7.267226e-10, y: 0.0016205892, z: -1.6880221e-11}
+      rotation: {x: 0.0021056891, y: -0.000000027037146, z: 0.11006077, w: 0.99392265}
+      scale: {x: 1.0000062, y: 1.0000049, z: 0.99999946}
+    - name: Tgt.cloth.7.6.L_end
+      parentName: Tgt.cloth.7.6.L
+      position: {x: -0, y: 0.00097249914, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.8.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0025992587, y: 0.014895163, z: 0.00022579783}
+      rotation: {x: 0.002388358, y: -0.010212868, z: 0.87679446, w: 0.48075098}
+      scale: {x: 1.0000025, y: 1.0000017, z: 1}
+    - name: Tgt.cloth.8.2.L
+      parentName: Tgt.cloth.8.1.L
+      position: {x: 1.5948899e-10, y: 0.0011618919, z: -3.7252902e-11}
+      rotation: {x: 0.07166171, y: -0.00019538496, z: 0.0064909966, w: 0.99740785}
+      scale: {x: 1.0000029, y: 1.0000036, z: 1.0000001}
+    - name: Tgt.cloth.8.3.L
+      parentName: Tgt.cloth.8.2.L
+      position: {x: 7.764902e-10, y: 0.001681619, z: 1.11758706e-10}
+      rotation: {x: 0.0032439977, y: 0.00035680097, z: -0.012019424, w: 0.9999225}
+      scale: {x: 0.79597294, y: 0.7959717, z: 0.7959713}
+    - name: Tgt.cloth.8.4.L
+      parentName: Tgt.cloth.8.3.L
+      position: {x: 0.0000000014947728, y: 0.0014635309, z: -1.4901161e-10}
+      rotation: {x: -0.0044110734, y: -0.0016720039, z: -0.059129935, w: 0.99823916}
+      scale: {x: 0.91926503, y: 0.91926354, z: 0.91925967}
+    - name: Tgt.cloth.8.5.L
+      parentName: Tgt.cloth.8.4.L
+      position: {x: 7.4505804e-11, y: 0.0014641706, z: -1.4901161e-10}
+      rotation: {x: -0.03466986, y: 0.0019728823, z: 0.15422615, w: 0.98742515}
+      scale: {x: 1.1354505, y: 1.1354523, z: 1.1354553}
+    - name: Tgt.cloth.8.5.L_end
+      parentName: Tgt.cloth.8.5.L
+      position: {x: -0, y: 0.0011349998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.9.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0031611186, y: 0.013482924, z: 0.0003192559}
+      rotation: {x: 0.057992756, y: 0.08579615, z: 0.92216, w: 0.37268865}
+      scale: {x: 1.0000035, y: 1.0000006, z: 0.9999998}
+    - name: Tgt.cloth.9.2.L
+      parentName: Tgt.cloth.9.1.L
+      position: {x: 3.0267983e-10, y: 0.0013688058, z: 0}
+      rotation: {x: 0.02124342, y: 0.00031175464, z: -0.057075236, w: 0.99814385}
+      scale: {x: 0.7356431, y: 0.73564255, z: 0.73564017}
+    - name: Tgt.cloth.9.3.L
+      parentName: Tgt.cloth.9.2.L
+      position: {x: 3.306195e-10, y: 0.0018196926, z: -2.9802322e-10}
+      rotation: {x: -0.05542274, y: 0.0006691808, z: -0.031978395, w: 0.99795055}
+      scale: {x: 0.914876, y: 0.91487396, z: 0.9148695}
+    - name: Tgt.cloth.9.4.L
+      parentName: Tgt.cloth.9.3.L
+      position: {x: 3.7252902e-11, y: 0.0013162335, z: 0.0000000020861626}
+      rotation: {x: -0.15884927, y: -0.017124465, z: 0.0176175, w: 0.9869971}
+      scale: {x: 0.79991645, y: 0.7999185, z: 0.7999168}
+    - name: Tgt.cloth.9.4.L_end
+      parentName: Tgt.cloth.9.4.L
+      position: {x: -0, y: 0.0008919326, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.10.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0029291478, y: 0.012616389, z: -0.00076286343}
+      rotation: {x: 0.044511154, y: 0.027804613, z: 0.96807575, w: 0.24510199}
+      scale: {x: 1.0000019, y: 1.0000031, z: 0.99999994}
+    - name: Tgt.cloth.10.2.L
+      parentName: Tgt.cloth.10.1.L
+      position: {x: 2.6542693e-10, y: 0.0010530105, z: -9.6624715e-11}
+      rotation: {x: -0.038930554, y: 0.001595075, z: -0.013964305, w: 0.9991431}
+      scale: {x: 0.999998, y: 0.999999, z: 1.0000011}
+    - name: Tgt.cloth.10.3.L
+      parentName: Tgt.cloth.10.2.L
+      position: {x: 8.288771e-10, y: 0.0014851277, z: 0}
+      rotation: {x: -0.0029476546, y: -0.00000006624032, z: -0.043047585, w: 0.99906874}
+      scale: {x: 0.78738046, y: 0.78738004, z: 0.7873766}
+    - name: Tgt.cloth.10.4.L
+      parentName: Tgt.cloth.10.3.L
+      position: {x: 8.8941304e-10, y: 0.0014763012, z: 3.7252902e-11}
+      rotation: {x: -0.010754223, y: -0.000000019175467, z: -0.15705867, w: 0.98753077}
+      scale: {x: 0.70671695, y: 0.70671755, z: 0.7067143}
+    - name: Tgt.cloth.10.4.L_end
+      parentName: Tgt.cloth.10.4.L
+      position: {x: -0, y: 0.00088505534, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.11.1.L
+      parentName: Root.Tgt
+      position: {x: -0.002371664, y: 0.014871044, z: -0.0014574088}
+      rotation: {x: 0.0023884177, y: -0.010212868, z: 0.87679446, w: 0.48075092}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Tgt.cloth.11.2.L
+      parentName: Tgt.cloth.11.1.L
+      position: {x: 0.0000000012037344, y: 0.001161892, z: 3.0267983e-11}
+      rotation: {x: -0.06104799, y: -0.0008712193, z: 0.0038741825, w: 0.9981269}
+      scale: {x: 0.9999999, y: 0.9999992, z: 1}
+    - name: Tgt.cloth.11.3.L
+      parentName: Tgt.cloth.11.2.L
+      position: {x: 7.1711836e-10, y: 0.0017076391, z: 2.2351741e-10}
+      rotation: {x: -0.031764146, y: -0.0027770149, z: 0.01091158, w: 0.99943197}
+      scale: {x: 1.0000066, y: 1.0000051, z: 0.9999999}
+    - name: Tgt.cloth.11.4.L
+      parentName: Tgt.cloth.11.3.L
+      position: {x: 3.7252902e-11, y: 0.0014003474, z: 5.5879353e-11}
+      rotation: {x: 0.03734079, y: 0.02090331, z: -0.07284124, w: 0.9964251}
+      scale: {x: 1.0000018, y: 1.0000024, z: 1.0000004}
+    - name: Tgt.cloth.11.5.L
+      parentName: Tgt.cloth.11.4.L
+      position: {x: -1.11758706e-10, y: 0.0014385289, z: 1.4901161e-10}
+      rotation: {x: 0.075360686, y: -0.029515062, z: 0.16884105, w: 0.9823148}
+      scale: {x: 1.0000051, y: 1.000008, z: 0.9999983}
+    - name: Tgt.cloth.11.5.L_end
+      parentName: Tgt.cloth.11.5.L
+      position: {x: -0, y: 0.0010866589, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.12.1.L
+      parentName: Root.Tgt
+      position: {x: -0.0029137665, y: 0.013138341, z: -0.0014338071}
+      rotation: {x: -0.2502029, y: 0.013034762, z: 0.8901655, w: 0.38057068}
+      scale: {x: 1.0000033, y: 1.0000013, z: 0.9999999}
+    - name: Tgt.cloth.12.2.L
+      parentName: Tgt.cloth.12.1.L
+      position: {x: -4.842877e-10, y: 0.0013792111, z: -1.4901161e-10}
+      rotation: {x: 0.05209078, y: 0.0025618258, z: -0.018353146, w: 0.9984704}
+      scale: {x: 1.000004, y: 1.0000064, z: 1.0000017}
+    - name: Tgt.cloth.12.3.L
+      parentName: Tgt.cloth.12.2.L
+      position: {x: -0.0000000010430813, y: 0.0017466298, z: -4.4703483e-10}
+      rotation: {x: -0.0050130007, y: 0.0141945, z: 0.031323627, w: 0.9993959}
+      scale: {x: 1.0000027, y: 1.0000036, z: 1.0000005}
+    - name: Tgt.cloth.12.4.L
+      parentName: Tgt.cloth.12.3.L
+      position: {x: 1.11758706e-10, y: 0.0014278591, z: 1.11758706e-10}
+      rotation: {x: 0.10950719, y: -0.016402714, z: -0.017164389, w: 0.9937025}
+      scale: {x: 1.0000046, y: 1.0000036, z: 0.99999934}
+    - name: Tgt.cloth.12.4.L_end
+      parentName: Tgt.cloth.12.4.L
+      position: {x: -0, y: 0.00079956366, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.8.1.R
+      parentName: Root.Tgt
+      position: {x: 0.0025992587, y: 0.014895163, z: 0.00022579783}
+      rotation: {x: -0.3871947, y: -0.22029963, z: 0.78667295, w: -0.42742717}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.000002}
+    - name: Tgt.cloth.8.2.R
+      parentName: Tgt.cloth.8.1.R
+      position: {x: -9.872019e-10, y: 0.0011618916, z: -0.0000000012014061}
+      rotation: {x: 0.049280055, y: -0.0024156275, z: 0.05243087, w: 0.997405}
+      scale: {x: 1.0000021, y: 1.0000026, z: 0.9999985}
+    - name: Tgt.cloth.8.3.R
+      parentName: Tgt.cloth.8.2.R
+      position: {x: -9.313226e-10, y: 0.0016816194, z: 5.867332e-10}
+      rotation: {x: -0.0070866058, y: -0.035253573, z: 0.01023569, w: 0.99930084}
+      scale: {x: 0.9232027, y: 0.9232013, z: 0.9232006}
+    - name: Tgt.cloth.8.4.R
+      parentName: Tgt.cloth.8.3.R
+      position: {x: 4.0978193e-10, y: 0.0014635322, z: 0}
+      rotation: {x: 0.047488738, y: -0.021706231, z: -0.035505034, w: -0.99800456}
+      scale: {x: 0.89073235, y: 0.89073354, z: 0.8907317}
+    - name: Tgt.cloth.8.5.R
+      parentName: Tgt.cloth.8.4.R
+      position: {x: -6.519258e-10, y: 0.0014641708, z: -6.705522e-10}
+      rotation: {x: -0.0956392, y: 0.0054196385, z: 0.12586035, w: -0.9874123}
+      scale: {x: 0.90373, y: 0.90373015, z: 0.9037299}
+    - name: Tgt.cloth.8.5.R_end
+      parentName: Tgt.cloth.8.5.R
+      position: {x: -0, y: 0.0011349998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.cloth.11.1.R
+      parentName: Root.Tgt
+      position: {x: 0.002371664, y: 0.014871044, z: -0.0014574088}
+      rotation: {x: 0.5379265, y: 0.28793186, z: 0.692394, w: -0.38512453}
+      scale: {x: 1.0000011, y: 1.0000027, z: 1.000001}
+    - name: Tgt.cloth.11.2.R
+      parentName: Tgt.cloth.11.1.R
+      position: {x: 3.6379788e-10, y: 0.0011618927, z: -0.0000000012107193}
+      rotation: {x: -0.018832954, y: 0.0060973843, z: 0.058199488, w: 0.9981087}
+      scale: {x: 1.0000023, y: 1.0000049, z: 1.0000031}
+    - name: Tgt.cloth.11.3.R
+      parentName: Tgt.cloth.11.2.R
+      position: {x: 2.6077032e-10, y: 0.0017076372, z: 2.6077032e-10}
+      rotation: {x: -0.019099828, y: 0.021962913, z: 0.02762635, w: 0.9991945}
+      scale: {x: 0.9999994, y: 0.9999994, z: 0.9999998}
+    - name: Tgt.cloth.11.4.R
+      parentName: Tgt.cloth.11.3.R
+      position: {x: -0, y: 0.0014003464, z: -0.0000000010430813}
+      rotation: {x: 0.024897635, y: 0.03076785, z: -0.017336247, w: 0.99906605}
+      scale: {x: 0.99999875, y: 0.99999857, z: 1.0000004}
+    - name: Tgt.cloth.11.5.R
+      parentName: Tgt.cloth.11.4.R
+      position: {x: 2.9802322e-10, y: 0.0014611532, z: 7.45058e-10}
+      rotation: {x: 0.0013304556, y: 0.024036162, z: -0.115128286, w: 0.9930589}
+      scale: {x: 1.0000038, y: 1.0000037, z: 1.0000023}
+    - name: Tgt.cloth.11.5.R_end
+      parentName: Tgt.cloth.11.5.R
+      position: {x: -0, y: 0.0010374847, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.Arm_IK.L
+      parentName: "\u9AA8\u67B6"
+      position: {x: -0.0060037617, y: -0.0015555542, z: 0.00949202}
+      rotation: {x: -6.1232356e-17, y: -0.00000008940697, z: 1, w: -6.617445e-24}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000012}
+    - name: Tgt.Arm_IK_Pole.L
+      parentName: Tgt.Arm_IK.L
+      position: {x: -0.0024741904, y: -0.0071704444, z: 0.0018654609}
+      rotation: {x: 6.1232356e-17, y: -0, z: -1, w: 1.00447355e-23}
+      scale: {x: 0.9999999, y: 1.0000023, z: 1.0000023}
+    - name: Tgt.Arm_IK_Pole.L_end
+      parentName: Tgt.Arm_IK_Pole.L
+      position: {x: -0, y: 0.0016289061, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.Leg_IK.L
+      parentName: "\u9AA8\u67B6"
+      position: {x: -0.003065677, y: -0.0013740293, z: 0.0008919827}
+      rotation: {x: -6.1232356e-17, y: -0.00000008940697, z: 1, w: -6.617445e-24}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000012}
+    - name: Tgt.Leg_IK_Pole.L
+      parentName: Tgt.Leg_IK.L
+      position: {x: -0.00048725455, y: 0.007287622, z: 0.002776073}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000051, y: 1.0000023, z: 1.0000023}
+    - name: Tgt.Leg_IK_Pole.L_end
+      parentName: Tgt.Leg_IK_Pole.L
+      position: {x: -0, y: 0.002360744, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.Arm_IK.R
+      parentName: "\u9AA8\u67B6"
+      position: {x: 0.007053195, y: -0.00047638273, z: 0.009820625}
+      rotation: {x: -6.1232356e-17, y: -0.00000008940697, z: 1, w: -6.617445e-24}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000012}
+    - name: Tgt.Arm_IK_Pole.R
+      parentName: Tgt.Arm_IK.R
+      position: {x: 0.0024741904, y: -0.0071704444, z: 0.0018654609}
+      rotation: {x: 6.1232356e-17, y: -0, z: -1, w: 1.00447355e-23}
+      scale: {x: 0.9999999, y: 1.0000023, z: 1.0000023}
+    - name: Tgt.Arm_IK_Pole.R_end
+      parentName: Tgt.Arm_IK_Pole.R
+      position: {x: -0, y: 0.0016289061, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.Leg_IK.R
+      parentName: "\u9AA8\u67B6"
+      position: {x: 0.002466563, y: 0.0023774316, z: 0.00089898106}
+      rotation: {x: -6.1232356e-17, y: -0.00000008940697, z: 1, w: -6.617445e-24}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000012}
+    - name: Tgt.Leg_IK_Pole.R
+      parentName: Tgt.Leg_IK.R
+      position: {x: -0.00021094471, y: 0.0071049677, z: 0.003029257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000051, y: 1.0000023, z: 1.0000023}
+    - name: Tgt.Leg_IK_Pole.R_end
+      parentName: Tgt.Leg_IK_Pole.R
+      position: {x: -0, y: 0.002360744, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl.Torso
+      parentName: "\u9AA8\u67B6"
+      position: {x: -1.4936972e-18, y: 0.00021504887, z: 0.008791455}
+      rotation: {x: 0.00000008940697, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000012, z: 1.0000012}
+    - name: Ctrl.Hip
+      parentName: Ctrl.Torso
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.71617466, y: -0.0000000061735954, z: 0.0000000055687663, w: -0.6979211}
+      scale: {x: 1, y: 1.000002, z: 1.000002}
+    - name: Tgt.Hip
+      parentName: Ctrl.Hip
+      position: {x: 1.4551758e-13, y: 0.0025239608, z: 3.122502e-19}
+      rotation: {x: -1, y: 6.9008e-10, z: -0.000000058157095, w: -2.537765e-17}
+      scale: {x: 1, y: 0.9999997, z: 0.99999976}
+    - name: Tgt.LegUp.L
+      parentName: Tgt.Hip
+      position: {x: -0.00159736, y: 0.0004932698, z: -0.000052434436}
+      rotation: {x: 0.9994716, y: -0.031836748, z: -0.0010274623, w: 0.006471811}
+      scale: {x: 1.0000153, y: 1.0000035, z: 1.0000033}
+    - name: Tgt.LegBottom.L
+      parentName: Tgt.LegUp.L
+      position: {x: -3.72529e-10, y: 0.0037034552, z: -1.11758706e-10}
+      rotation: {x: 0.043026797, y: -0.00008186384, z: -0.019109923, w: 0.9988912}
+      scale: {x: 0.9999986, y: 1.0000099, z: 1.0000087}
+    - name: Tgt.Foot.L
+      parentName: Tgt.LegBottom.L
+      position: {x: -1.816079e-10, y: 0.003033639, z: 1.8626451e-11}
+      rotation: {x: 0.010617798, y: 0.8058073, z: -0.59204066, w: -0.0070527336}
+      scale: {x: 1.0000014, y: 1.0000031, z: 1.0000013}
+    - name: Tgt.Toe.L
+      parentName: Tgt.Foot.L
+      position: {x: -1.6589183e-11, y: 0.0013512514, z: -1.11758706e-10}
+      rotation: {x: 0.17451687, y: 0.0000000721775, z: -0.00000009126961, w: 0.98465425}
+      scale: {x: 1.000007, y: 1.000004, z: 1.0000035}
+    - name: Tgt.Toe.L_end
+      parentName: Tgt.Toe.L
+      position: {x: -0, y: 0.00065341126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.LegUp.R
+      parentName: Tgt.Hip
+      position: {x: 0.0015973599, y: 0.0004932691, z: -0.00005243412}
+      rotation: {x: 0.9994716, y: 0.031836744, z: 0.0010275382, w: 0.006471785}
+      scale: {x: 1.0000153, y: 1.0000037, z: 1.0000035}
+    - name: Tgt.LegBottom.R
+      parentName: Tgt.LegUp.R
+      position: {x: 9.3132255e-12, y: 0.0037034561, z: 6.519258e-11}
+      rotation: {x: 0.04302668, y: 0.00008190237, z: 0.019109916, w: 0.9988912}
+      scale: {x: 0.9999987, y: 1.0000106, z: 1.0000091}
+    - name: Tgt.Foot.R
+      parentName: Tgt.LegBottom.R
+      position: {x: 2.3748725e-10, y: 0.0030336385, z: -2.2351741e-10}
+      rotation: {x: -0.010617791, y: 0.80580735, z: -0.5920406, w: 0.007052729}
+      scale: {x: 1.0000017, y: 1.0000029, z: 0.9999986}
+    - name: Tgt.Toe.R
+      parentName: Tgt.Foot.R
+      position: {x: 6.446498e-11, y: 0.0013512513, z: 3.7252902e-11}
+      rotation: {x: 0.17451711, y: -0.00000006053597, z: 0.000000024680048, w: 0.9846542}
+      scale: {x: 1.0000064, y: 1.0000052, z: 1.0000024}
+    - name: Tgt.Toe.R_end
+      parentName: Tgt.Toe.R
+      position: {x: -0, y: 0.00065341126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl.Spine
+      parentName: Ctrl.Torso
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.6843175, y: -5.4343425e-24, z: -2.3774653e-17, w: 0.7291842}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Tgt.Spine
+      parentName: Ctrl.Spine
+      position: {x: -9.202384e-26, y: 0.0000000012619421, z: -4.2840836e-10}
+      rotation: {x: 0.014111757, y: 0.00000011919738, z: 0.0000000016822739, w: 0.99990046}
+      scale: {x: 1, y: 0.9999995, z: 0.9999996}
+    - name: Tgt.Chest
+      parentName: Tgt.Spine
+      position: {x: -5.8939617e-18, y: 0.0012041336, z: 0}
+      rotation: {x: -0.01783196, y: -0.00000023838065, z: -3.5194066e-14, w: 0.99984103}
+      scale: {x: 1, y: 0.9999999, z: 0.99999964}
+    - name: Tgt.Neck
+      parentName: Tgt.Chest
+      position: {x: -5.5090138e-18, y: 0.004566588, z: 7.4505804e-11}
+      rotation: {x: 0.11180529, y: 0.00000023692377, z: 1.2832301e-14, w: 0.9937302}
+      scale: {x: 1, y: 0.99999946, z: 0.9999998}
+    - name: Tgt.Head
+      parentName: Tgt.Neck
+      position: {x: 1.4432899e-16, y: 0.0015443754, z: -3.445893e-10}
+      rotation: {x: -0.024997827, y: -0.008732342, z: 0.00021835961, w: 0.9996494}
+      scale: {x: 1.0000012, y: 0.9999994, z: 0.99999833}
+    - name: Tgt.Head_end
+      parentName: Tgt.Head
+      position: {x: -0, y: 0.008442813, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.Shoulder.L
+      parentName: Tgt.Chest
+      position: {x: -0.0007069115, y: 0.0041292133, z: -0.000015182177}
+      rotation: {x: -0.53783774, y: 0.41988158, z: 0.5729335, w: 0.45406744}
+      scale: {x: 0.99999905, y: 0.9999984, z: 0.9999979}
+    - name: Tgt.ArmUp.L
+      parentName: Tgt.Shoulder.L
+      position: {x: -4.6566126e-11, y: 0.0018384751, z: -0.0000000013042343}
+      rotation: {x: 0.18284854, y: 0.0063177636, z: 0.043152224, w: -0.9821733}
+      scale: {x: 1.0000032, y: 1.0000062, z: 1.000005}
+    - name: Tgt.ArmBottom.L
+      parentName: Tgt.ArmUp.L
+      position: {x: -7.4505804e-11, y: 0.0034968182, z: -8.381903e-11}
+      rotation: {x: 0.020418914, y: 0.000459421, z: -0.05590859, w: -0.998227}
+      scale: {x: 1.0000029, y: 1.0000012, z: 1.000001}
+    - name: Tgt.Hand.L
+      parentName: Tgt.ArmBottom.L
+      position: {x: 7.45058e-10, y: 0.0031003752, z: 6.0768796e-10}
+      rotation: {x: -0.016191939, y: 0.0019714572, z: 0.08758293, w: 0.9960237}
+      scale: {x: 1.0000002, y: 1.000003, z: 1.0000018}
+    - name: Tgt.Hand.L_end
+      parentName: Tgt.Hand.L
+      position: {x: -0, y: 0.0007993874, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tgt.Shoulder.R
+      parentName: Tgt.Chest
+      position: {x: 0.0007069115, y: 0.004129212, z: -0.000015182589}
+      rotation: {x: 0.5378379, y: 0.41988146, z: 0.5729334, w: -0.45406747}
+      scale: {x: 0.99999917, y: 1.0000002, z: 0.9999992}
+    - name: Tgt.ArmUp.R
+      parentName: Tgt.Shoulder.R
+      position: {x: 1.16415315e-11, y: 0.0018384752, z: -1.1622374e-10}
+      rotation: {x: -0.18284857, y: 0.006317824, z: 0.043152228, w: 0.9821733}
+      scale: {x: 1.0000024, y: 1.0000031, z: 1.0000037}
+    - name: Tgt.ArmBottom.R
+      parentName: Tgt.ArmUp.R
+      position: {x: -2.9802322e-10, y: 0.0034968182, z: -7.9162416e-10}
+      rotation: {x: -0.020423124, y: 0.000014571935, z: -0.07763527, w: 0.99677265}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000004}
+    - name: Tgt.Hand.R
+      parentName: Tgt.ArmBottom.R
+      position: {x: 1.4901161e-10, y: 0.003107852, z: 0.0000000012852251}
+      rotation: {x: -0.01628577, y: -0.0009439703, z: 0.019112922, w: 0.9996842}
+      scale: {x: 1.0000012, y: 1.0000001, z: 1.0000005}
+    - name: Tgt.Hand.R_end
+      parentName: Tgt.Hand.R
+      position: {x: -0, y: 0.0007826022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl.rilun
+      parentName: "\u9AA8\u67B6"
+      position: {x: 0.0078349365, y: 0.00056286185, z: 0.010679181}
+      rotation: {x: -0.000000029802322, y: 0.31743, z: 0.000000029802322, w: 0.94828176}
+      scale: {x: 1.0000002, y: 1.0000033, z: 1.0000026}
+    - name: Ctrl.rilun_end
+      parentName: Ctrl.rilun
+      position: {x: -0, y: 0.0005406405, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl.Foot.R
+      parentName: "\u9AA8\u67B6"
+      position: {x: 0.002466563, y: 0.0023774316, z: 0.0008989812}
+      rotation: {x: -0.000000078696644, y: -0.1745172, z: 0.9846541, w: 0.000000002926882}
+      scale: {x: 1.0000052, y: 1.0000033, z: 1.0000015}
+    - name: Ctrl.Toe.R
+      parentName: Ctrl.Foot.R
+      position: {x: 3.2305252e-11, y: 0.0013512516, z: 0}
+      rotation: {x: 0.17451705, y: -0.0000000855187, z: 0.000000035467398, w: 0.9846542}
+      scale: {x: 1.0000039, y: 1.0000007, z: 1.0000032}
+    - name: Ctrl.Toe.R_end
+      parentName: Ctrl.Toe.R
+      position: {x: -0, y: 0.00065341126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl.Foot.L
+      parentName: "\u9AA8\u67B6"
+      position: {x: -0.003065677, y: -0.0013740293, z: 0.00089198275}
+      rotation: {x: 0.00000006697736, y: -0.1745172, z: 0.9846541, w: 0.000000011870854}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: Ctrl.Toe.L
+      parentName: Ctrl.Foot.L
+      position: {x: 1.2427336e-10, y: 0.0013512517, z: -7.4505804e-11}
+      rotation: {x: 0.17451705, y: 0.0000000595563, z: 0.00000006118003, w: 0.9846542}
+      scale: {x: 1.0000031, y: 1.0000014, z: 1.0000018}
+    - name: Ctrl.Toe.L_end
+      parentName: Ctrl.Toe.L
+      position: {x: -0, y: 0.00065341126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: za
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: hairback
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: hands
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: hair
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: face
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: cloth
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: eyes
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: shoes
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1692384, y: 1.1692384, z: 1.1692384}
+    - name: 1
+      parentName: "\u70AD\u6CBB\u90CE(Clone)"
+      position: {x: 1.6237757, y: 1.9566078, z: 0.0000003187719}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.04000004, y: 0.04000004, z: 0.04000004}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
